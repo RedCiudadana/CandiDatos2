@@ -1,0 +1,10 @@
+{
+  "name": "CandiDatos Red Ciudadana",
+  "short_name": "CandiDatos",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}

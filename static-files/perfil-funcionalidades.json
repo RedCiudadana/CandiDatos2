@@ -7,7 +7,7 @@
     "title": "Perfil"
   },
   {
-    "route": "perfil.frente-a-frente",
+    "route": "perfil.index",
     "link": "",
     "name": "Frente a Frente",
     "iconClass": "fa fa-bolt color-yellow",
