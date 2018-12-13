@@ -1,7 +1,7 @@
 [
   {
     "id": "parlacem-1",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 1",
     "partido": "1",
     "edad": "45",
     "estadoCivil": "Estado Civil",
@@ -14,7 +14,7 @@
   },
   {
     "id": "parlacem-2",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 2",
     "partido": "2",
     "edad": "30",
     "estadoCivil": "Estado Civil",
@@ -27,7 +27,7 @@
   },
   {
     "id": "parlacem-3",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 3",
     "partido": "3",
     "edad": "85",
     "estadoCivil": "Estado Civil",
@@ -40,7 +40,7 @@
   },
   {
     "id": "parlacem-4",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 4",
     "partido": "4",
     "edad": "42",
     "estadoCivil": "Estado Civil",
@@ -53,7 +53,7 @@
   },
   {
     "id": "parlacem-5",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 5",
     "partido": "5",
     "edad": "52",
     "estadoCivil": "Estado Civil",
@@ -66,7 +66,7 @@
   },
   {
     "id": "parlacem-6",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 6",
     "partido": "6",
     "edad": "86",
     "estadoCivil": "Estado Civil",
@@ -79,7 +79,7 @@
   },
   {
     "id": "parlacem-7",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 7",
     "partido": "7",
     "edad": "72",
     "estadoCivil": "Estado Civil",
@@ -92,7 +92,7 @@
   },
   {
     "id": "parlacem-8",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 8",
     "partido": "8",
     "edad": "77",
     "estadoCivil": "Estado Civil",
@@ -105,7 +105,7 @@
   },
   {
     "id": "parlacem-9",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 9",
     "partido": "9",
     "edad": "54",
     "estadoCivil": "Estado Civil",
@@ -118,7 +118,7 @@
   },
   {
     "id": "parlacem-10",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 10",
     "partido": "10",
     "edad": "31",
     "estadoCivil": "Estado Civil",
@@ -131,7 +131,7 @@
   },
   {
     "id": "parlacem-11",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 11",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -144,7 +144,7 @@
   },
   {
     "id": "parlacem-12",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 12",
     "partido": "12",
     "edad": "66",
     "estadoCivil": "Estado Civil",
@@ -157,7 +157,7 @@
   },
   {
     "id": "parlacem-13",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 13",
     "partido": "13",
     "edad": "67",
     "estadoCivil": "Estado Civil",
@@ -170,7 +170,7 @@
   },
   {
     "id": "parlacem-14",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 14",
     "partido": "14",
     "edad": "36",
     "estadoCivil": "Estado Civil",
@@ -183,7 +183,7 @@
   },
   {
     "id": "parlacem-15",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 15",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -196,7 +196,7 @@
   },
   {
     "id": "parlacem-16",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 16",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -209,7 +209,7 @@
   },
   {
     "id": "parlacem-17",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 17",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -222,7 +222,7 @@
   },
   {
     "id": "parlacem-18",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 18",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -235,7 +235,7 @@
   },
   {
     "id": "parlacem-19",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 19",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -248,7 +248,7 @@
   },
   {
     "id": "parlacem-20",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 20",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -261,7 +261,7 @@
   },
   {
     "id": "parlacem-21",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 21",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -274,7 +274,7 @@
   },
   {
     "id": "parlacem-22",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 22",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -287,7 +287,7 @@
   },
   {
     "id": "parlacem-23",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 23",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -300,7 +300,7 @@
   },
   {
     "id": "parlacem-24",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 24",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -313,7 +313,7 @@
   },
   {
     "id": "parlacem-25",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 25",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -326,7 +326,7 @@
   },
   {
     "id": "parlacem-26",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 26",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -339,7 +339,7 @@
   },
   {
     "id": "parlacem-27",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 27",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -352,7 +352,7 @@
   },
   {
     "id": "parlacem-28",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 28",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -365,7 +365,7 @@
   },
   {
     "id": "parlacem-29",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 29",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -378,7 +378,7 @@
   },
   {
     "id": "parlacem-30",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 30",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -391,7 +391,7 @@
   },
   {
     "id": "parlacem-31",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 31",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -404,7 +404,7 @@
   },
   {
     "id": "parlacem-32",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 32",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -417,7 +417,7 @@
   },
   {
     "id": "parlacem-33",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 33",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -430,7 +430,7 @@
   },
   {
     "id": "parlacem-34",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 34",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -443,7 +443,7 @@
   },
   {
     "id": "parlacem-35",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 35",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -456,7 +456,7 @@
   },
   {
     "id": "parlacem-36",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 36",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -469,7 +469,7 @@
   },
   {
     "id": "parlacem-37",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 37",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -482,7 +482,7 @@
   },
   {
     "id": "parlacem-38",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 38",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -495,7 +495,7 @@
   },
   {
     "id": "parlacem-39",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 39",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -508,7 +508,7 @@
   },
   {
     "id": "parlacem-40",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 40",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -521,7 +521,7 @@
   },
   {
     "id": "parlacem-41",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 41",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -534,7 +534,7 @@
   },
   {
     "id": "parlacem-42",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 42",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -547,7 +547,7 @@
   },
   {
     "id": "parlacem-43",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 43",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -560,7 +560,7 @@
   },
   {
     "id": "parlacem-44",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 44",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -573,7 +573,7 @@
   },
   {
     "id": "parlacem-45",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 45",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -586,7 +586,7 @@
   },
   {
     "id": "parlacem-46",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 46",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -599,7 +599,7 @@
   },
   {
     "id": "parlacem-47",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 47",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -612,7 +612,7 @@
   },
   {
     "id": "parlacem-48",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 48",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -625,7 +625,7 @@
   },
   {
     "id": "parlacem-49",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 49",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -638,7 +638,7 @@
   },
   {
     "id": "parlacem-50",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 50",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -651,7 +651,7 @@
   },
   {
     "id": "parlacem-51",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 51",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -664,7 +664,7 @@
   },
   {
     "id": "parlacem-52",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 52",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -677,7 +677,7 @@
   },
   {
     "id": "parlacem-53",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 53",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -690,7 +690,7 @@
   },
   {
     "id": "parlacem-54",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 54",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -703,7 +703,7 @@
   },
   {
     "id": "parlacem-55",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 55",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -716,7 +716,7 @@
   },
   {
     "id": "parlacem-56",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 56",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -729,7 +729,7 @@
   },
   {
     "id": "parlacem-57",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 57",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -742,7 +742,7 @@
   },
   {
     "id": "parlacem-58",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 58",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -755,7 +755,7 @@
   },
   {
     "id": "parlacem-59",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 59",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -768,7 +768,7 @@
   },
   {
     "id": "parlacem-60",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 60",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -781,7 +781,7 @@
   },
   {
     "id": "parlacem-61",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 61",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -794,7 +794,7 @@
   },
   {
     "id": "parlacem-62",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 62",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -807,7 +807,7 @@
   },
   {
     "id": "parlacem-63",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 63",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -820,7 +820,7 @@
   },
   {
     "id": "parlacem-64",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 64",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -833,7 +833,7 @@
   },
   {
     "id": "parlacem-65",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 65",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -846,7 +846,7 @@
   },
   {
     "id": "parlacem-66",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 66",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -859,7 +859,7 @@
   },
   {
     "id": "parlacem-67",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 67",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -872,7 +872,7 @@
   },
   {
     "id": "parlacem-68",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 68",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -885,7 +885,7 @@
   },
   {
     "id": "parlacem-69",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 69",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -898,7 +898,7 @@
   },
   {
     "id": "parlacem-70",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 70",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -911,7 +911,7 @@
   },
   {
     "id": "parlacem-71",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 71",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -924,7 +924,7 @@
   },
   {
     "id": "parlacem-72",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 72",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -937,7 +937,7 @@
   },
   {
     "id": "parlacem-73",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 73",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -950,7 +950,7 @@
   },
   {
     "id": "parlacem-74",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 74",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -963,7 +963,7 @@
   },
   {
     "id": "parlacem-75",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 75",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -976,7 +976,7 @@
   },
   {
     "id": "parlacem-76",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 76",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -989,7 +989,7 @@
   },
   {
     "id": "parlacem-77",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 77",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": "parlacem-78",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 78",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": "parlacem-79",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 79",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": "parlacem-80",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 80",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": "parlacem-81",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 81",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1054,7 +1054,7 @@
   },
   {
     "id": "parlacem-82",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 82",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1067,7 +1067,7 @@
   },
   {
     "id": "parlacem-83",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 83",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1080,7 +1080,7 @@
   },
   {
     "id": "parlacem-84",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 84",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": "parlacem-85",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 85",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1106,7 +1106,7 @@
   },
   {
     "id": "parlacem-86",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 86",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1119,7 +1119,7 @@
   },
   {
     "id": "parlacem-87",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 87",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1132,7 +1132,7 @@
   },
   {
     "id": "parlacem-88",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 88",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": "parlacem-89",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 89",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1158,7 +1158,7 @@
   },
   {
     "id": "parlacem-90",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 90",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": "parlacem-91",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 91",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1184,7 +1184,7 @@
   },
   {
     "id": "parlacem-92",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 92",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": "parlacem-93",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 93",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1210,7 +1210,7 @@
   },
   {
     "id": "parlacem-94",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 94",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1223,7 +1223,7 @@
   },
   {
     "id": "parlacem-95",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 95",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1236,7 +1236,7 @@
   },
   {
     "id": "parlacem-96",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 96",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": "parlacem-97",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 97",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1262,7 +1262,7 @@
   },
   {
     "id": "parlacem-98",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 98",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": "parlacem-99",
-    "nombre": "Denton Hensley",
+    "nombre": "Candidato 99",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1288,7 +1288,7 @@
   },
   {
     "id": "parlacem-100",
-    "nombre": "Denton Hensley",
+    "nombre": "Candidato 100",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",

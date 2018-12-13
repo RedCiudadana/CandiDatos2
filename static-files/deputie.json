@@ -1,7 +1,7 @@
 [
   {
     "id": "deputie-1",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 1",
     "partido": "1",
     "edad": "45",
     "estadoCivil": "Estado Civil",
@@ -14,7 +14,7 @@
   },
   {
     "id": "deputie-2",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 2",
     "partido": "2",
     "edad": "30",
     "estadoCivil": "Estado Civil",
@@ -27,7 +27,7 @@
   },
   {
     "id": "deputie-3",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 3",
     "partido": "3",
     "edad": "85",
     "estadoCivil": "Estado Civil",
@@ -40,7 +40,7 @@
   },
   {
     "id": "deputie-4",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 4",
     "partido": "4",
     "edad": "42",
     "estadoCivil": "Estado Civil",
@@ -53,7 +53,7 @@
   },
   {
     "id": "deputie-5",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 5",
     "partido": "5",
     "edad": "52",
     "estadoCivil": "Estado Civil",
@@ -66,7 +66,7 @@
   },
   {
     "id": "deputie-6",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 6",
     "partido": "6",
     "edad": "86",
     "estadoCivil": "Estado Civil",
@@ -79,7 +79,7 @@
   },
   {
     "id": "deputie-7",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 7",
     "partido": "7",
     "edad": "72",
     "estadoCivil": "Estado Civil",
@@ -92,7 +92,7 @@
   },
   {
     "id": "deputie-8",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 8",
     "partido": "8",
     "edad": "77",
     "estadoCivil": "Estado Civil",
@@ -105,7 +105,7 @@
   },
   {
     "id": "deputie-9",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 9",
     "partido": "9",
     "edad": "54",
     "estadoCivil": "Estado Civil",
@@ -118,7 +118,7 @@
   },
   {
     "id": "deputie-10",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 10",
     "partido": "10",
     "edad": "31",
     "estadoCivil": "Estado Civil",
@@ -131,7 +131,7 @@
   },
   {
     "id": "deputie-11",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 11",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -144,7 +144,7 @@
   },
   {
     "id": "deputie-12",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 12",
     "partido": "12",
     "edad": "66",
     "estadoCivil": "Estado Civil",
@@ -157,7 +157,7 @@
   },
   {
     "id": "deputie-13",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 13",
     "partido": "13",
     "edad": "67",
     "estadoCivil": "Estado Civil",
@@ -170,7 +170,7 @@
   },
   {
     "id": "deputie-14",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 14",
     "partido": "14",
     "edad": "36",
     "estadoCivil": "Estado Civil",
@@ -183,7 +183,7 @@
   },
   {
     "id": "deputie-15",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 15",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -196,7 +196,7 @@
   },
   {
     "id": "deputie-16",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 16",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -209,7 +209,7 @@
   },
   {
     "id": "deputie-17",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 17",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -222,7 +222,7 @@
   },
   {
     "id": "deputie-18",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 18",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -235,7 +235,7 @@
   },
   {
     "id": "deputie-19",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 19",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -248,7 +248,7 @@
   },
   {
     "id": "deputie-20",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 20",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -261,7 +261,7 @@
   },
   {
     "id": "deputie-21",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 21",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -274,7 +274,7 @@
   },
   {
     "id": "deputie-22",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 22",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -287,7 +287,7 @@
   },
   {
     "id": "deputie-23",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 23",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -300,7 +300,7 @@
   },
   {
     "id": "deputie-24",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 24",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -313,7 +313,7 @@
   },
   {
     "id": "deputie-25",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 25",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -326,7 +326,7 @@
   },
   {
     "id": "deputie-26",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 26",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -339,7 +339,7 @@
   },
   {
     "id": "deputie-27",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 27",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -352,7 +352,7 @@
   },
   {
     "id": "deputie-28",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 28",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -365,7 +365,7 @@
   },
   {
     "id": "deputie-29",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 29",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -378,7 +378,7 @@
   },
   {
     "id": "deputie-30",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 30",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -391,7 +391,7 @@
   },
   {
     "id": "deputie-31",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 31",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -404,7 +404,7 @@
   },
   {
     "id": "deputie-32",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 32",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -417,7 +417,7 @@
   },
   {
     "id": "deputie-33",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 33",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -430,7 +430,7 @@
   },
   {
     "id": "deputie-34",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 34",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -443,7 +443,7 @@
   },
   {
     "id": "deputie-35",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 35",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -456,7 +456,7 @@
   },
   {
     "id": "deputie-36",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 36",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -469,7 +469,7 @@
   },
   {
     "id": "deputie-37",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 37",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -482,7 +482,7 @@
   },
   {
     "id": "deputie-38",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 38",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -495,7 +495,7 @@
   },
   {
     "id": "deputie-39",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 39",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -508,7 +508,7 @@
   },
   {
     "id": "deputie-40",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 40",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -521,7 +521,7 @@
   },
   {
     "id": "deputie-41",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 41",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -534,7 +534,7 @@
   },
   {
     "id": "deputie-42",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 42",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -547,7 +547,7 @@
   },
   {
     "id": "deputie-43",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 43",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -560,7 +560,7 @@
   },
   {
     "id": "deputie-44",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 44",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -573,7 +573,7 @@
   },
   {
     "id": "deputie-45",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 45",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -586,7 +586,7 @@
   },
   {
     "id": "deputie-46",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 46",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -599,7 +599,7 @@
   },
   {
     "id": "deputie-47",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 47",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -612,7 +612,7 @@
   },
   {
     "id": "deputie-48",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 48",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -625,7 +625,7 @@
   },
   {
     "id": "deputie-49",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 49",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -638,7 +638,7 @@
   },
   {
     "id": "deputie-50",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 50",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -651,7 +651,7 @@
   },
   {
     "id": "deputie-51",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 51",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -664,7 +664,7 @@
   },
   {
     "id": "deputie-52",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 52",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -677,7 +677,7 @@
   },
   {
     "id": "deputie-53",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 53",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -690,7 +690,7 @@
   },
   {
     "id": "deputie-54",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 54",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -703,7 +703,7 @@
   },
   {
     "id": "deputie-55",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 55",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -716,7 +716,7 @@
   },
   {
     "id": "deputie-56",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 56",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -729,7 +729,7 @@
   },
   {
     "id": "deputie-57",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 57",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -742,7 +742,7 @@
   },
   {
     "id": "deputie-58",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 58",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -755,7 +755,7 @@
   },
   {
     "id": "deputie-59",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 59",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -768,7 +768,7 @@
   },
   {
     "id": "deputie-60",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 60",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -781,7 +781,7 @@
   },
   {
     "id": "deputie-61",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 61",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -794,7 +794,7 @@
   },
   {
     "id": "deputie-62",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 62",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -807,7 +807,7 @@
   },
   {
     "id": "deputie-63",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 63",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -820,7 +820,7 @@
   },
   {
     "id": "deputie-64",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 64",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -833,7 +833,7 @@
   },
   {
     "id": "deputie-65",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 65",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -846,7 +846,7 @@
   },
   {
     "id": "deputie-66",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 66",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -859,7 +859,7 @@
   },
   {
     "id": "deputie-67",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 67",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -872,7 +872,7 @@
   },
   {
     "id": "deputie-68",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 68",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -885,7 +885,7 @@
   },
   {
     "id": "deputie-69",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 69",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -898,7 +898,7 @@
   },
   {
     "id": "deputie-70",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 70",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -911,7 +911,7 @@
   },
   {
     "id": "deputie-71",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 71",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -924,7 +924,7 @@
   },
   {
     "id": "deputie-72",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 72",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -937,7 +937,7 @@
   },
   {
     "id": "deputie-73",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 73",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -950,7 +950,7 @@
   },
   {
     "id": "deputie-74",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 74",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -963,7 +963,7 @@
   },
   {
     "id": "deputie-75",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 75",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -976,7 +976,7 @@
   },
   {
     "id": "deputie-76",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 76",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -989,7 +989,7 @@
   },
   {
     "id": "deputie-77",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 77",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": "deputie-78",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 78",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": "deputie-79",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 79",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": "deputie-80",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 80",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": "deputie-81",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 81",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1054,7 +1054,7 @@
   },
   {
     "id": "deputie-82",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 82",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1067,7 +1067,7 @@
   },
   {
     "id": "deputie-83",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 83",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1080,7 +1080,7 @@
   },
   {
     "id": "deputie-84",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 84",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": "deputie-85",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 85",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1106,7 +1106,7 @@
   },
   {
     "id": "deputie-86",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 86",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1119,7 +1119,7 @@
   },
   {
     "id": "deputie-87",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 87",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1132,7 +1132,7 @@
   },
   {
     "id": "deputie-88",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 88",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": "deputie-89",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 89",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1158,7 +1158,7 @@
   },
   {
     "id": "deputie-90",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 90",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": "deputie-91",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 91",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1184,7 +1184,7 @@
   },
   {
     "id": "deputie-92",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 92",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": "deputie-93",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 93",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1210,7 +1210,7 @@
   },
   {
     "id": "deputie-94",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 94",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1223,7 +1223,7 @@
   },
   {
     "id": "deputie-95",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 95",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1236,7 +1236,7 @@
   },
   {
     "id": "deputie-96",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 96",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": "deputie-97",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 97",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1262,7 +1262,7 @@
   },
   {
     "id": "deputie-98",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 98",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": "deputie-99",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 99",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1288,7 +1288,7 @@
   },
   {
     "id": "deputie-100",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 100",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1301,7 +1301,7 @@
   },
   {
     "id": "deputie-101",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 101",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1314,7 +1314,7 @@
   },
   {
     "id": "deputie-102",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 102",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1327,7 +1327,7 @@
   },
   {
     "id": "deputie-103",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 103",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1340,7 +1340,7 @@
   },
   {
     "id": "deputie-104",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 104",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1353,7 +1353,7 @@
   },
   {
     "id": "deputie-105",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 105",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1366,7 +1366,7 @@
   },
   {
     "id": "deputie-106",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 106",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1379,7 +1379,7 @@
   },
   {
     "id": "deputie-107",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 107",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1392,7 +1392,7 @@
   },
   {
     "id": "deputie-108",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 108",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1405,7 +1405,7 @@
   },
   {
     "id": "deputie-109",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 109",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1418,7 +1418,7 @@
   },
   {
     "id": "deputie-110",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 110",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1431,7 +1431,7 @@
   },
   {
     "id": "deputie-111",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 111",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1444,7 +1444,7 @@
   },
   {
     "id": "deputie-112",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 112",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1457,7 +1457,7 @@
   },
   {
     "id": "deputie-113",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 113",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1470,7 +1470,7 @@
   },
   {
     "id": "deputie-114",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 114",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1483,7 +1483,7 @@
   },
   {
     "id": "deputie-115",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 115",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1496,7 +1496,7 @@
   },
   {
     "id": "deputie-116",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 116",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1509,7 +1509,7 @@
   },
   {
     "id": "deputie-117",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 117",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1522,7 +1522,7 @@
   },
   {
     "id": "deputie-118",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 118",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1535,7 +1535,7 @@
   },
   {
     "id": "deputie-119",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 119",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1548,7 +1548,7 @@
   },
   {
     "id": "deputie-120",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 120",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "deputie-121",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 121",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1574,7 +1574,7 @@
   },
   {
     "id": "deputie-122",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 122",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1587,7 +1587,7 @@
   },
   {
     "id": "deputie-123",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 123",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1600,7 +1600,7 @@
   },
   {
     "id": "deputie-124",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 124",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1613,7 +1613,7 @@
   },
   {
     "id": "deputie-125",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 125",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1626,7 +1626,7 @@
   },
   {
     "id": "deputie-126",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 126",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1639,7 +1639,7 @@
   },
   {
     "id": "deputie-127",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 127",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1652,7 +1652,7 @@
   },
   {
     "id": "deputie-128",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 128",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1665,7 +1665,7 @@
   },
   {
     "id": "deputie-129",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 129",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1678,7 +1678,7 @@
   },
   {
     "id": "deputie-130",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 130",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1691,7 +1691,7 @@
   },
   {
     "id": "deputie-131",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 131",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1704,7 +1704,7 @@
   },
   {
     "id": "deputie-132",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 132",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": "deputie-133",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 133",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1730,7 +1730,7 @@
   },
   {
     "id": "deputie-134",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 134",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1743,7 +1743,7 @@
   },
   {
     "id": "deputie-135",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 135",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1756,7 +1756,7 @@
   },
   {
     "id": "deputie-136",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 136",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1769,7 +1769,7 @@
   },
   {
     "id": "deputie-137",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 137",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1782,7 +1782,7 @@
   },
   {
     "id": "deputie-138",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 138",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1795,7 +1795,7 @@
   },
   {
     "id": "deputie-139",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 139",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1808,7 +1808,7 @@
   },
   {
     "id": "deputie-140",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 140",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1821,7 +1821,7 @@
   },
   {
     "id": "deputie-141",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 141",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1834,7 +1834,7 @@
   },
   {
     "id": "deputie-142",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 142",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1847,7 +1847,7 @@
   },
   {
     "id": "deputie-143",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 143",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1860,7 +1860,7 @@
   },
   {
     "id": "deputie-144",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 144",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1873,7 +1873,7 @@
   },
   {
     "id": "deputie-145",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 145",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1886,7 +1886,7 @@
   },
   {
     "id": "deputie-146",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 146",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1899,7 +1899,7 @@
   },
   {
     "id": "deputie-147",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 147",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1912,7 +1912,7 @@
   },
   {
     "id": "deputie-148",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 148",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1925,7 +1925,7 @@
   },
   {
     "id": "deputie-149",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 149",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1938,7 +1938,7 @@
   },
   {
     "id": "deputie-150",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 150",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1951,7 +1951,7 @@
   },
   {
     "id": "deputie-151",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 151",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1964,7 +1964,7 @@
   },
   {
     "id": "deputie-152",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 152",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1977,7 +1977,7 @@
   },
   {
     "id": "deputie-153",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 153",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -1990,7 +1990,7 @@
   },
   {
     "id": "deputie-154",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 154",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2003,7 +2003,7 @@
   },
   {
     "id": "deputie-155",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 155",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2016,7 +2016,7 @@
   },
   {
     "id": "deputie-156",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 156",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2029,7 +2029,7 @@
   },
   {
     "id": "deputie-157",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 157",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2042,7 +2042,7 @@
   },
   {
     "id": "deputie-158",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 158",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2055,7 +2055,7 @@
   },
   {
     "id": "deputie-159",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 159",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2068,7 +2068,7 @@
   },
   {
     "id": "deputie-160",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 160",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2081,7 +2081,7 @@
   },
   {
     "id": "deputie-161",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 161",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2094,7 +2094,7 @@
   },
   {
     "id": "deputie-162",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 162",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2107,7 +2107,7 @@
   },
   {
     "id": "deputie-163",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 163",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2120,7 +2120,7 @@
   },
   {
     "id": "deputie-164",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 164",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2133,7 +2133,7 @@
   },
   {
     "id": "deputie-165",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 165",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2146,7 +2146,7 @@
   },
   {
     "id": "deputie-166",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 166",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2159,7 +2159,7 @@
   },
   {
     "id": "deputie-167",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 167",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2172,7 +2172,7 @@
   },
   {
     "id": "deputie-168",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 168",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2185,7 +2185,7 @@
   },
   {
     "id": "deputie-169",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 169",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2198,7 +2198,7 @@
   },
   {
     "id": "deputie-170",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 170",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2211,7 +2211,7 @@
   },
   {
     "id": "deputie-171",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 171",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2224,7 +2224,7 @@
   },
   {
     "id": "deputie-172",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 172",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2237,7 +2237,7 @@
   },
   {
     "id": "deputie-173",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 173",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2250,7 +2250,7 @@
   },
   {
     "id": "deputie-174",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 174",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2263,7 +2263,7 @@
   },
   {
     "id": "deputie-175",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 175",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2276,7 +2276,7 @@
   },
   {
     "id": "deputie-176",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 176",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2289,7 +2289,7 @@
   },
   {
     "id": "deputie-177",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 177",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2302,7 +2302,7 @@
   },
   {
     "id": "deputie-178",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 178",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2315,7 +2315,7 @@
   },
   {
     "id": "deputie-179",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 179",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2328,7 +2328,7 @@
   },
   {
     "id": "deputie-180",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 180",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2341,7 +2341,7 @@
   },
   {
     "id": "deputie-181",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 181",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2354,7 +2354,7 @@
   },
   {
     "id": "deputie-182",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 182",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2367,7 +2367,7 @@
   },
   {
     "id": "deputie-183",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 183",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2380,7 +2380,7 @@
   },
   {
     "id": "deputie-184",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 184",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2393,7 +2393,7 @@
   },
   {
     "id": "deputie-185",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 185",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2406,7 +2406,7 @@
   },
   {
     "id": "deputie-186",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 186",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2419,7 +2419,7 @@
   },
   {
     "id": "deputie-187",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 187",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2432,7 +2432,7 @@
   },
   {
     "id": "deputie-188",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 188",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2445,7 +2445,7 @@
   },
   {
     "id": "deputie-189",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 189",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2458,7 +2458,7 @@
   },
   {
     "id": "deputie-190",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 190",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2471,7 +2471,7 @@
   },
   {
     "id": "deputie-191",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 191",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2484,7 +2484,7 @@
   },
   {
     "id": "deputie-192",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 192",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2497,7 +2497,7 @@
   },
   {
     "id": "deputie-193",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 193",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2510,7 +2510,7 @@
   },
   {
     "id": "deputie-194",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 194",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2523,7 +2523,7 @@
   },
   {
     "id": "deputie-195",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 195",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2536,7 +2536,7 @@
   },
   {
     "id": "deputie-196",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 196",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2549,7 +2549,7 @@
   },
   {
     "id": "deputie-197",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 197",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2562,7 +2562,7 @@
   },
   {
     "id": "deputie-198",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 198",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2575,7 +2575,7 @@
   },
   {
     "id": "deputie-199",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 199",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2588,7 +2588,7 @@
   },
   {
     "id": "deputie-200",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 200",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2601,7 +2601,7 @@
   },
   {
     "id": "deputie-201",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 201",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2614,7 +2614,7 @@
   },
   {
     "id": "deputie-202",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 202",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2627,7 +2627,7 @@
   },
   {
     "id": "deputie-203",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 203",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2640,7 +2640,7 @@
   },
   {
     "id": "deputie-204",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 204",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2653,7 +2653,7 @@
   },
   {
     "id": "deputie-205",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 205",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2666,7 +2666,7 @@
   },
   {
     "id": "deputie-206",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 206",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2679,7 +2679,7 @@
   },
   {
     "id": "deputie-207",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 207",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2692,7 +2692,7 @@
   },
   {
     "id": "deputie-208",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 208",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2705,7 +2705,7 @@
   },
   {
     "id": "deputie-209",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 209",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2718,7 +2718,7 @@
   },
   {
     "id": "deputie-210",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 210",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2731,7 +2731,7 @@
   },
   {
     "id": "deputie-211",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 211",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2744,7 +2744,7 @@
   },
   {
     "id": "deputie-212",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 212",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2757,7 +2757,7 @@
   },
   {
     "id": "deputie-213",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 213",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2770,7 +2770,7 @@
   },
   {
     "id": "deputie-214",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 214",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2783,7 +2783,7 @@
   },
   {
     "id": "deputie-215",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 215",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2796,7 +2796,7 @@
   },
   {
     "id": "deputie-216",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 216",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2809,7 +2809,7 @@
   },
   {
     "id": "deputie-217",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 217",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2822,7 +2822,7 @@
   },
   {
     "id": "deputie-218",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 218",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2835,7 +2835,7 @@
   },
   {
     "id": "deputie-219",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 219",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2848,7 +2848,7 @@
   },
   {
     "id": "deputie-220",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 220",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2861,7 +2861,7 @@
   },
   {
     "id": "deputie-221",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 221",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2874,7 +2874,7 @@
   },
   {
     "id": "deputie-222",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 222",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2887,7 +2887,7 @@
   },
   {
     "id": "deputie-223",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 223",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2900,7 +2900,7 @@
   },
   {
     "id": "deputie-224",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 224",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2913,7 +2913,7 @@
   },
   {
     "id": "deputie-225",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 225",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2926,7 +2926,7 @@
   },
   {
     "id": "deputie-226",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 226",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2939,7 +2939,7 @@
   },
   {
     "id": "deputie-227",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 227",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2952,7 +2952,7 @@
   },
   {
     "id": "deputie-228",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 228",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2965,7 +2965,7 @@
   },
   {
     "id": "deputie-229",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 229",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2978,7 +2978,7 @@
   },
   {
     "id": "deputie-230",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 230",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -2991,7 +2991,7 @@
   },
   {
     "id": "deputie-231",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 231",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3004,7 +3004,7 @@
   },
   {
     "id": "deputie-232",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 232",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3017,7 +3017,7 @@
   },
   {
     "id": "deputie-233",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 233",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3030,7 +3030,7 @@
   },
   {
     "id": "deputie-234",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 234",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3043,7 +3043,7 @@
   },
   {
     "id": "deputie-235",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 235",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3056,7 +3056,7 @@
   },
   {
     "id": "deputie-236",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 236",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3069,7 +3069,7 @@
   },
   {
     "id": "deputie-237",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 237",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3082,7 +3082,7 @@
   },
   {
     "id": "deputie-238",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 238",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3095,7 +3095,7 @@
   },
   {
     "id": "deputie-239",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 239",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3108,7 +3108,7 @@
   },
   {
     "id": "deputie-240",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 240",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3121,7 +3121,7 @@
   },
   {
     "id": "deputie-241",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 241",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3134,7 +3134,7 @@
   },
   {
     "id": "deputie-242",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 242",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3147,7 +3147,7 @@
   },
   {
     "id": "deputie-243",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 243",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3160,7 +3160,7 @@
   },
   {
     "id": "deputie-244",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 244",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3173,7 +3173,7 @@
   },
   {
     "id": "deputie-245",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 245",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3186,7 +3186,7 @@
   },
   {
     "id": "deputie-246",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 246",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3199,7 +3199,7 @@
   },
   {
     "id": "deputie-247",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 247",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3212,7 +3212,7 @@
   },
   {
     "id": "deputie-248",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 248",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3225,7 +3225,7 @@
   },
   {
     "id": "deputie-249",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 249",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3238,7 +3238,7 @@
   },
   {
     "id": "deputie-250",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 250",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3251,7 +3251,7 @@
   },
   {
     "id": "deputie-251",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 251",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3264,7 +3264,7 @@
   },
   {
     "id": "deputie-252",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 252",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3277,7 +3277,7 @@
   },
   {
     "id": "deputie-253",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 253",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3290,7 +3290,7 @@
   },
   {
     "id": "deputie-254",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 254",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3303,7 +3303,7 @@
   },
   {
     "id": "deputie-255",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 255",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3316,7 +3316,7 @@
   },
   {
     "id": "deputie-256",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 256",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3329,7 +3329,7 @@
   },
   {
     "id": "deputie-257",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 257",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3342,7 +3342,7 @@
   },
   {
     "id": "deputie-258",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 258",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3355,7 +3355,7 @@
   },
   {
     "id": "deputie-259",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 259",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3368,7 +3368,7 @@
   },
   {
     "id": "deputie-260",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 260",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3381,7 +3381,7 @@
   },
   {
     "id": "deputie-261",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 261",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3394,7 +3394,7 @@
   },
   {
     "id": "deputie-262",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 262",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3407,7 +3407,7 @@
   },
   {
     "id": "deputie-263",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 263",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3420,7 +3420,7 @@
   },
   {
     "id": "deputie-264",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 264",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3433,7 +3433,7 @@
   },
   {
     "id": "deputie-265",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 265",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3446,7 +3446,7 @@
   },
   {
     "id": "deputie-266",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 266",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3459,7 +3459,7 @@
   },
   {
     "id": "deputie-267",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 267",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3472,7 +3472,7 @@
   },
   {
     "id": "deputie-268",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 268",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3485,7 +3485,7 @@
   },
   {
     "id": "deputie-269",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 269",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3498,7 +3498,7 @@
   },
   {
     "id": "deputie-270",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 270",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3511,7 +3511,7 @@
   },
   {
     "id": "deputie-271",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 271",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3524,7 +3524,7 @@
   },
   {
     "id": "deputie-272",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 272",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3537,7 +3537,7 @@
   },
   {
     "id": "deputie-273",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 273",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3550,7 +3550,7 @@
   },
   {
     "id": "deputie-274",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 274",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3563,7 +3563,7 @@
   },
   {
     "id": "deputie-275",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 275",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3576,7 +3576,7 @@
   },
   {
     "id": "deputie-276",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 276",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3589,7 +3589,7 @@
   },
   {
     "id": "deputie-277",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 277",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3602,7 +3602,7 @@
   },
   {
     "id": "deputie-278",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 278",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3615,7 +3615,7 @@
   },
   {
     "id": "deputie-279",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 279",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3628,7 +3628,7 @@
   },
   {
     "id": "deputie-280",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 280",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3641,7 +3641,7 @@
   },
   {
     "id": "deputie-281",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 281",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3654,7 +3654,7 @@
   },
   {
     "id": "deputie-282",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 282",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3667,7 +3667,7 @@
   },
   {
     "id": "deputie-283",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 283",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3680,7 +3680,7 @@
   },
   {
     "id": "deputie-284",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 284",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3693,7 +3693,7 @@
   },
   {
     "id": "deputie-285",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 285",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3706,7 +3706,7 @@
   },
   {
     "id": "deputie-286",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 286",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3719,7 +3719,7 @@
   },
   {
     "id": "deputie-287",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 287",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3732,7 +3732,7 @@
   },
   {
     "id": "deputie-288",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 288",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3745,7 +3745,7 @@
   },
   {
     "id": "deputie-289",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 289",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3758,7 +3758,7 @@
   },
   {
     "id": "deputie-290",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 290",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3771,7 +3771,7 @@
   },
   {
     "id": "deputie-291",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 291",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3784,7 +3784,7 @@
   },
   {
     "id": "deputie-292",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 292",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3797,7 +3797,7 @@
   },
   {
     "id": "deputie-293",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 293",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3810,7 +3810,7 @@
   },
   {
     "id": "deputie-294",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 294",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3823,7 +3823,7 @@
   },
   {
     "id": "deputie-295",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 295",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3836,7 +3836,7 @@
   },
   {
     "id": "deputie-296",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 296",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3849,7 +3849,7 @@
   },
   {
     "id": "deputie-297",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 297",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3862,7 +3862,7 @@
   },
   {
     "id": "deputie-298",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 298",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3875,7 +3875,7 @@
   },
   {
     "id": "deputie-299",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 299",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3888,7 +3888,7 @@
   },
   {
     "id": "deputie-300",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 300",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3901,7 +3901,7 @@
   },
   {
     "id": "deputie-301",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 301",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3914,7 +3914,7 @@
   },
   {
     "id": "deputie-302",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 302",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3927,7 +3927,7 @@
   },
   {
     "id": "deputie-303",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 303",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3940,7 +3940,7 @@
   },
   {
     "id": "deputie-304",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 304",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3953,7 +3953,7 @@
   },
   {
     "id": "deputie-305",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 305",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3966,7 +3966,7 @@
   },
   {
     "id": "deputie-306",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 306",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3979,7 +3979,7 @@
   },
   {
     "id": "deputie-307",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 307",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -3992,7 +3992,7 @@
   },
   {
     "id": "deputie-308",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 308",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4005,7 +4005,7 @@
   },
   {
     "id": "deputie-309",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 309",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4018,7 +4018,7 @@
   },
   {
     "id": "deputie-310",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 310",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4031,7 +4031,7 @@
   },
   {
     "id": "deputie-311",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 311",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4044,7 +4044,7 @@
   },
   {
     "id": "deputie-312",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 312",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4057,7 +4057,7 @@
   },
   {
     "id": "deputie-313",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 313",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4070,7 +4070,7 @@
   },
   {
     "id": "deputie-314",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 314",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4083,7 +4083,7 @@
   },
   {
     "id": "deputie-315",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 315",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4096,7 +4096,7 @@
   },
   {
     "id": "deputie-316",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 316",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4109,7 +4109,7 @@
   },
   {
     "id": "deputie-317",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 317",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4122,7 +4122,7 @@
   },
   {
     "id": "deputie-318",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 318",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4135,7 +4135,7 @@
   },
   {
     "id": "deputie-319",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 319",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4148,7 +4148,7 @@
   },
   {
     "id": "deputie-320",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 320",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4161,7 +4161,7 @@
   },
   {
     "id": "deputie-321",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 321",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4174,7 +4174,7 @@
   },
   {
     "id": "deputie-322",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 322",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4187,7 +4187,7 @@
   },
   {
     "id": "deputie-323",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 323",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4200,7 +4200,7 @@
   },
   {
     "id": "deputie-324",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 324",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4213,7 +4213,7 @@
   },
   {
     "id": "deputie-325",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 325",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4226,7 +4226,7 @@
   },
   {
     "id": "deputie-326",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 326",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4239,7 +4239,7 @@
   },
   {
     "id": "deputie-327",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 327",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4252,7 +4252,7 @@
   },
   {
     "id": "deputie-328",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 328",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4265,7 +4265,7 @@
   },
   {
     "id": "deputie-329",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 329",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4278,7 +4278,7 @@
   },
   {
     "id": "deputie-330",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 330",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4291,7 +4291,7 @@
   },
   {
     "id": "deputie-331",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 331",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4304,7 +4304,7 @@
   },
   {
     "id": "deputie-332",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 332",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4317,7 +4317,7 @@
   },
   {
     "id": "deputie-333",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 333",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4330,7 +4330,7 @@
   },
   {
     "id": "deputie-334",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 334",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4343,7 +4343,7 @@
   },
   {
     "id": "deputie-335",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 335",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4356,7 +4356,7 @@
   },
   {
     "id": "deputie-336",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 336",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4369,7 +4369,7 @@
   },
   {
     "id": "deputie-337",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 337",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4382,7 +4382,7 @@
   },
   {
     "id": "deputie-338",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 338",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4395,7 +4395,7 @@
   },
   {
     "id": "deputie-339",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 339",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4408,7 +4408,7 @@
   },
   {
     "id": "deputie-340",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 340",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4421,7 +4421,7 @@
   },
   {
     "id": "deputie-341",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 341",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4434,7 +4434,7 @@
   },
   {
     "id": "deputie-342",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 342",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4447,7 +4447,7 @@
   },
   {
     "id": "deputie-343",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 343",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4460,7 +4460,7 @@
   },
   {
     "id": "deputie-344",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 344",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4473,7 +4473,7 @@
   },
   {
     "id": "deputie-345",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 345",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4486,7 +4486,7 @@
   },
   {
     "id": "deputie-346",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 346",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4499,7 +4499,7 @@
   },
   {
     "id": "deputie-347",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 347",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4512,7 +4512,7 @@
   },
   {
     "id": "deputie-348",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 348",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4525,7 +4525,7 @@
   },
   {
     "id": "deputie-349",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 349",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4538,7 +4538,7 @@
   },
   {
     "id": "deputie-350",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 350",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4551,7 +4551,7 @@
   },
   {
     "id": "deputie-351",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 351",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4564,7 +4564,7 @@
   },
   {
     "id": "deputie-352",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 352",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4577,7 +4577,7 @@
   },
   {
     "id": "deputie-353",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 353",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4590,7 +4590,7 @@
   },
   {
     "id": "deputie-354",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 354",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4603,7 +4603,7 @@
   },
   {
     "id": "deputie-355",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 355",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4616,7 +4616,7 @@
   },
   {
     "id": "deputie-356",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 356",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4629,7 +4629,7 @@
   },
   {
     "id": "deputie-357",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 357",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4642,7 +4642,7 @@
   },
   {
     "id": "deputie-358",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 358",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4655,7 +4655,7 @@
   },
   {
     "id": "deputie-359",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 359",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4668,7 +4668,7 @@
   },
   {
     "id": "deputie-360",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 360",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4681,7 +4681,7 @@
   },
   {
     "id": "deputie-361",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 361",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4694,7 +4694,7 @@
   },
   {
     "id": "deputie-362",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 362",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4707,7 +4707,7 @@
   },
   {
     "id": "deputie-363",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 363",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4720,7 +4720,7 @@
   },
   {
     "id": "deputie-364",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 364",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4733,7 +4733,7 @@
   },
   {
     "id": "deputie-365",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 365",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4746,7 +4746,7 @@
   },
   {
     "id": "deputie-366",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 366",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4759,7 +4759,7 @@
   },
   {
     "id": "deputie-367",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 367",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4772,7 +4772,7 @@
   },
   {
     "id": "deputie-368",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 368",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4785,7 +4785,7 @@
   },
   {
     "id": "deputie-369",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 369",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4798,7 +4798,7 @@
   },
   {
     "id": "deputie-370",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 370",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4811,7 +4811,7 @@
   },
   {
     "id": "deputie-371",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 371",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4824,7 +4824,7 @@
   },
   {
     "id": "deputie-372",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 372",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4837,7 +4837,7 @@
   },
   {
     "id": "deputie-373",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 373",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4850,7 +4850,7 @@
   },
   {
     "id": "deputie-374",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 374",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4863,7 +4863,7 @@
   },
   {
     "id": "deputie-375",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 375",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4876,7 +4876,7 @@
   },
   {
     "id": "deputie-376",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 376",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4889,7 +4889,7 @@
   },
   {
     "id": "deputie-377",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 377",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4902,7 +4902,7 @@
   },
   {
     "id": "deputie-378",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 378",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4915,7 +4915,7 @@
   },
   {
     "id": "deputie-379",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 379",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4928,7 +4928,7 @@
   },
   {
     "id": "deputie-380",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 380",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4941,7 +4941,7 @@
   },
   {
     "id": "deputie-381",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 381",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4954,7 +4954,7 @@
   },
   {
     "id": "deputie-382",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 382",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4967,7 +4967,7 @@
   },
   {
     "id": "deputie-383",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 383",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4980,7 +4980,7 @@
   },
   {
     "id": "deputie-384",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 384",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -4993,7 +4993,7 @@
   },
   {
     "id": "deputie-385",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 385",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5006,7 +5006,7 @@
   },
   {
     "id": "deputie-386",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 386",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5019,7 +5019,7 @@
   },
   {
     "id": "deputie-387",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 387",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5032,7 +5032,7 @@
   },
   {
     "id": "deputie-388",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 388",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5045,7 +5045,7 @@
   },
   {
     "id": "deputie-389",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 389",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5058,7 +5058,7 @@
   },
   {
     "id": "deputie-390",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 390",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5071,7 +5071,7 @@
   },
   {
     "id": "deputie-391",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 391",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5084,7 +5084,7 @@
   },
   {
     "id": "deputie-392",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 392",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5097,7 +5097,7 @@
   },
   {
     "id": "deputie-393",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 393",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5110,7 +5110,7 @@
   },
   {
     "id": "deputie-394",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 394",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5123,7 +5123,7 @@
   },
   {
     "id": "deputie-395",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 395",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5136,7 +5136,7 @@
   },
   {
     "id": "deputie-396",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 396",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5149,7 +5149,7 @@
   },
   {
     "id": "deputie-397",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 397",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5162,7 +5162,7 @@
   },
   {
     "id": "deputie-398",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 398",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5175,7 +5175,7 @@
   },
   {
     "id": "deputie-399",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 399",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5188,7 +5188,7 @@
   },
   {
     "id": "deputie-400",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 400",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5201,7 +5201,7 @@
   },
   {
     "id": "deputie-401",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 401",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5214,7 +5214,7 @@
   },
   {
     "id": "deputie-402",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 402",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5227,7 +5227,7 @@
   },
   {
     "id": "deputie-403",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 403",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5240,7 +5240,7 @@
   },
   {
     "id": "deputie-404",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 404",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5253,7 +5253,7 @@
   },
   {
     "id": "deputie-405",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 405",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5266,7 +5266,7 @@
   },
   {
     "id": "deputie-406",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 406",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5279,7 +5279,7 @@
   },
   {
     "id": "deputie-407",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 407",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5292,7 +5292,7 @@
   },
   {
     "id": "deputie-408",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 408",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5305,7 +5305,7 @@
   },
   {
     "id": "deputie-409",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 409",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5318,7 +5318,7 @@
   },
   {
     "id": "deputie-410",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 410",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5331,7 +5331,7 @@
   },
   {
     "id": "deputie-411",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 411",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5344,7 +5344,7 @@
   },
   {
     "id": "deputie-412",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 412",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5357,7 +5357,7 @@
   },
   {
     "id": "deputie-413",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 413",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5370,7 +5370,7 @@
   },
   {
     "id": "deputie-414",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 414",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5383,7 +5383,7 @@
   },
   {
     "id": "deputie-415",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 415",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5396,7 +5396,7 @@
   },
   {
     "id": "deputie-416",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 416",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5409,7 +5409,7 @@
   },
   {
     "id": "deputie-417",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 417",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5422,7 +5422,7 @@
   },
   {
     "id": "deputie-418",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 418",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5435,7 +5435,7 @@
   },
   {
     "id": "deputie-419",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 419",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5448,7 +5448,7 @@
   },
   {
     "id": "deputie-420",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 420",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5461,7 +5461,7 @@
   },
   {
     "id": "deputie-421",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 421",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5474,7 +5474,7 @@
   },
   {
     "id": "deputie-422",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 422",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5487,7 +5487,7 @@
   },
   {
     "id": "deputie-423",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 423",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5500,7 +5500,7 @@
   },
   {
     "id": "deputie-424",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 424",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5513,7 +5513,7 @@
   },
   {
     "id": "deputie-425",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 425",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5526,7 +5526,7 @@
   },
   {
     "id": "deputie-426",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 426",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5539,7 +5539,7 @@
   },
   {
     "id": "deputie-427",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 427",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5552,7 +5552,7 @@
   },
   {
     "id": "deputie-428",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 428",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5565,7 +5565,7 @@
   },
   {
     "id": "deputie-429",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 429",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5578,7 +5578,7 @@
   },
   {
     "id": "deputie-430",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 430",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5591,7 +5591,7 @@
   },
   {
     "id": "deputie-431",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 431",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5604,7 +5604,7 @@
   },
   {
     "id": "deputie-432",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 432",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5617,7 +5617,7 @@
   },
   {
     "id": "deputie-433",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 433",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5630,7 +5630,7 @@
   },
   {
     "id": "deputie-434",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 434",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5643,7 +5643,7 @@
   },
   {
     "id": "deputie-435",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 435",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5656,7 +5656,7 @@
   },
   {
     "id": "deputie-436",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 436",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5669,7 +5669,7 @@
   },
   {
     "id": "deputie-437",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 437",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5682,7 +5682,7 @@
   },
   {
     "id": "deputie-438",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 438",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5695,7 +5695,7 @@
   },
   {
     "id": "deputie-439",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 439",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5708,7 +5708,7 @@
   },
   {
     "id": "deputie-440",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 440",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5721,7 +5721,7 @@
   },
   {
     "id": "deputie-441",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 441",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5734,7 +5734,7 @@
   },
   {
     "id": "deputie-442",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 442",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5747,7 +5747,7 @@
   },
   {
     "id": "deputie-443",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 443",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5760,7 +5760,7 @@
   },
   {
     "id": "deputie-444",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 444",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5773,7 +5773,7 @@
   },
   {
     "id": "deputie-445",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 445",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5786,7 +5786,7 @@
   },
   {
     "id": "deputie-446",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 446",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5799,7 +5799,7 @@
   },
   {
     "id": "deputie-447",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 447",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5812,7 +5812,7 @@
   },
   {
     "id": "deputie-448",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 448",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5825,7 +5825,7 @@
   },
   {
     "id": "deputie-449",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 449",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5838,7 +5838,7 @@
   },
   {
     "id": "deputie-450",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 450",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5851,7 +5851,7 @@
   },
   {
     "id": "deputie-451",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 451",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5864,7 +5864,7 @@
   },
   {
     "id": "deputie-452",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 452",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5877,7 +5877,7 @@
   },
   {
     "id": "deputie-453",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 453",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5890,7 +5890,7 @@
   },
   {
     "id": "deputie-454",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 454",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5903,7 +5903,7 @@
   },
   {
     "id": "deputie-455",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 455",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5916,7 +5916,7 @@
   },
   {
     "id": "deputie-456",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 456",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5929,7 +5929,7 @@
   },
   {
     "id": "deputie-457",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 457",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5942,7 +5942,7 @@
   },
   {
     "id": "deputie-458",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 458",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5955,7 +5955,7 @@
   },
   {
     "id": "deputie-459",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 459",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5968,7 +5968,7 @@
   },
   {
     "id": "deputie-460",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 460",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5981,7 +5981,7 @@
   },
   {
     "id": "deputie-461",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 461",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -5994,7 +5994,7 @@
   },
   {
     "id": "deputie-462",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 462",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6007,7 +6007,7 @@
   },
   {
     "id": "deputie-463",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 463",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6020,7 +6020,7 @@
   },
   {
     "id": "deputie-464",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 464",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6033,7 +6033,7 @@
   },
   {
     "id": "deputie-465",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 465",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6046,7 +6046,7 @@
   },
   {
     "id": "deputie-466",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 466",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6059,7 +6059,7 @@
   },
   {
     "id": "deputie-467",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 467",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6072,7 +6072,7 @@
   },
   {
     "id": "deputie-468",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 468",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6085,7 +6085,7 @@
   },
   {
     "id": "deputie-469",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 469",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6098,7 +6098,7 @@
   },
   {
     "id": "deputie-470",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 470",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6111,7 +6111,7 @@
   },
   {
     "id": "deputie-471",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 471",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6124,7 +6124,7 @@
   },
   {
     "id": "deputie-472",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 472",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6137,7 +6137,7 @@
   },
   {
     "id": "deputie-473",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 473",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6150,7 +6150,7 @@
   },
   {
     "id": "deputie-474",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 474",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6163,7 +6163,7 @@
   },
   {
     "id": "deputie-475",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 475",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6176,7 +6176,7 @@
   },
   {
     "id": "deputie-476",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 476",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6189,7 +6189,7 @@
   },
   {
     "id": "deputie-477",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 477",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6202,7 +6202,7 @@
   },
   {
     "id": "deputie-478",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 478",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6215,7 +6215,7 @@
   },
   {
     "id": "deputie-479",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 479",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6228,7 +6228,7 @@
   },
   {
     "id": "deputie-480",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 480",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6241,7 +6241,7 @@
   },
   {
     "id": "deputie-481",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 481",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6254,7 +6254,7 @@
   },
   {
     "id": "deputie-482",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 482",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6267,7 +6267,7 @@
   },
   {
     "id": "deputie-483",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 483",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6280,7 +6280,7 @@
   },
   {
     "id": "deputie-484",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 484",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6293,7 +6293,7 @@
   },
   {
     "id": "deputie-485",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 485",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6306,7 +6306,7 @@
   },
   {
     "id": "deputie-486",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 486",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6319,7 +6319,7 @@
   },
   {
     "id": "deputie-487",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 487",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6332,7 +6332,7 @@
   },
   {
     "id": "deputie-488",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 488",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6345,7 +6345,7 @@
   },
   {
     "id": "deputie-489",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 489",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6358,7 +6358,7 @@
   },
   {
     "id": "deputie-490",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 490",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6371,7 +6371,7 @@
   },
   {
     "id": "deputie-491",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 491",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6384,7 +6384,7 @@
   },
   {
     "id": "deputie-492",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 492",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6397,7 +6397,7 @@
   },
   {
     "id": "deputie-493",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 493",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6410,7 +6410,7 @@
   },
   {
     "id": "deputie-494",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 494",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6423,7 +6423,7 @@
   },
   {
     "id": "deputie-495",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 495",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6436,7 +6436,7 @@
   },
   {
     "id": "deputie-496",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 496",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6449,7 +6449,7 @@
   },
   {
     "id": "deputie-497",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 497",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6462,7 +6462,7 @@
   },
   {
     "id": "deputie-498",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 498",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6475,7 +6475,7 @@
   },
   {
     "id": "deputie-499",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 499",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6488,7 +6488,7 @@
   },
   {
     "id": "deputie-500",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 500",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6501,7 +6501,7 @@
   },
   {
     "id": "deputie-501",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 501",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6514,7 +6514,7 @@
   },
   {
     "id": "deputie-502",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 502",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6527,7 +6527,7 @@
   },
   {
     "id": "deputie-503",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 503",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6540,7 +6540,7 @@
   },
   {
     "id": "deputie-504",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 504",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6553,7 +6553,7 @@
   },
   {
     "id": "deputie-505",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 505",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6566,7 +6566,7 @@
   },
   {
     "id": "deputie-506",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 506",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6579,7 +6579,7 @@
   },
   {
     "id": "deputie-507",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 507",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6592,7 +6592,7 @@
   },
   {
     "id": "deputie-508",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 508",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6605,7 +6605,7 @@
   },
   {
     "id": "deputie-509",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 509",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6618,7 +6618,7 @@
   },
   {
     "id": "deputie-510",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 510",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6631,7 +6631,7 @@
   },
   {
     "id": "deputie-511",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 511",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6644,7 +6644,7 @@
   },
   {
     "id": "deputie-512",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 512",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6657,7 +6657,7 @@
   },
   {
     "id": "deputie-513",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 513",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6670,7 +6670,7 @@
   },
   {
     "id": "deputie-514",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 514",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6683,7 +6683,7 @@
   },
   {
     "id": "deputie-515",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 515",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6696,7 +6696,7 @@
   },
   {
     "id": "deputie-516",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 516",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6709,7 +6709,7 @@
   },
   {
     "id": "deputie-517",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 517",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6722,7 +6722,7 @@
   },
   {
     "id": "deputie-518",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 518",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6735,7 +6735,7 @@
   },
   {
     "id": "deputie-519",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 519",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6748,7 +6748,7 @@
   },
   {
     "id": "deputie-520",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 520",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6761,7 +6761,7 @@
   },
   {
     "id": "deputie-521",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 521",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6774,7 +6774,7 @@
   },
   {
     "id": "deputie-522",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 522",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6787,7 +6787,7 @@
   },
   {
     "id": "deputie-523",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 523",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6800,7 +6800,7 @@
   },
   {
     "id": "deputie-524",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 524",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6813,7 +6813,7 @@
   },
   {
     "id": "deputie-525",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 525",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6826,7 +6826,7 @@
   },
   {
     "id": "deputie-526",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 526",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6839,7 +6839,7 @@
   },
   {
     "id": "deputie-527",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 527",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6852,7 +6852,7 @@
   },
   {
     "id": "deputie-528",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 528",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6865,7 +6865,7 @@
   },
   {
     "id": "deputie-529",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 529",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6878,7 +6878,7 @@
   },
   {
     "id": "deputie-530",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 530",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6891,7 +6891,7 @@
   },
   {
     "id": "deputie-531",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 531",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6904,7 +6904,7 @@
   },
   {
     "id": "deputie-532",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 532",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6917,7 +6917,7 @@
   },
   {
     "id": "deputie-533",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 533",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6930,7 +6930,7 @@
   },
   {
     "id": "deputie-534",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 534",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6943,7 +6943,7 @@
   },
   {
     "id": "deputie-535",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 535",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6956,7 +6956,7 @@
   },
   {
     "id": "deputie-536",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 536",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6969,7 +6969,7 @@
   },
   {
     "id": "deputie-537",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 537",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6982,7 +6982,7 @@
   },
   {
     "id": "deputie-538",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 538",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -6995,7 +6995,7 @@
   },
   {
     "id": "deputie-539",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 539",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7008,7 +7008,7 @@
   },
   {
     "id": "deputie-540",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 540",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7021,7 +7021,7 @@
   },
   {
     "id": "deputie-541",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 541",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7034,7 +7034,7 @@
   },
   {
     "id": "deputie-542",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 542",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7047,7 +7047,7 @@
   },
   {
     "id": "deputie-543",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 543",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7060,7 +7060,7 @@
   },
   {
     "id": "deputie-544",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 544",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7073,7 +7073,7 @@
   },
   {
     "id": "deputie-545",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 545",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7086,7 +7086,7 @@
   },
   {
     "id": "deputie-546",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 546",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7099,7 +7099,7 @@
   },
   {
     "id": "deputie-547",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 547",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7112,7 +7112,7 @@
   },
   {
     "id": "deputie-548",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 548",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7125,7 +7125,7 @@
   },
   {
     "id": "deputie-549",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 549",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7138,7 +7138,7 @@
   },
   {
     "id": "deputie-550",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 550",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7151,7 +7151,7 @@
   },
   {
     "id": "deputie-551",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 551",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7164,7 +7164,7 @@
   },
   {
     "id": "deputie-552",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 552",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7177,7 +7177,7 @@
   },
   {
     "id": "deputie-553",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 553",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7190,7 +7190,7 @@
   },
   {
     "id": "deputie-554",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 554",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7203,7 +7203,7 @@
   },
   {
     "id": "deputie-555",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 555",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7216,7 +7216,7 @@
   },
   {
     "id": "deputie-556",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 556",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7229,7 +7229,7 @@
   },
   {
     "id": "deputie-557",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 557",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7242,7 +7242,7 @@
   },
   {
     "id": "deputie-558",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 558",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7255,7 +7255,7 @@
   },
   {
     "id": "deputie-559",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 559",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7268,7 +7268,7 @@
   },
   {
     "id": "deputie-560",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 560",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7281,7 +7281,7 @@
   },
   {
     "id": "deputie-561",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 561",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7294,7 +7294,7 @@
   },
   {
     "id": "deputie-562",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 562",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7307,7 +7307,7 @@
   },
   {
     "id": "deputie-563",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 563",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7320,7 +7320,7 @@
   },
   {
     "id": "deputie-564",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 564",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7333,7 +7333,7 @@
   },
   {
     "id": "deputie-565",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 565",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7346,7 +7346,7 @@
   },
   {
     "id": "deputie-566",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 566",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7359,7 +7359,7 @@
   },
   {
     "id": "deputie-567",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 567",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7372,7 +7372,7 @@
   },
   {
     "id": "deputie-568",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 568",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7385,7 +7385,7 @@
   },
   {
     "id": "deputie-569",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 569",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7398,7 +7398,7 @@
   },
   {
     "id": "deputie-570",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 570",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7411,7 +7411,7 @@
   },
   {
     "id": "deputie-571",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 571",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7424,7 +7424,7 @@
   },
   {
     "id": "deputie-572",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 572",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7437,7 +7437,7 @@
   },
   {
     "id": "deputie-573",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 573",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7450,7 +7450,7 @@
   },
   {
     "id": "deputie-574",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 574",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7463,7 +7463,7 @@
   },
   {
     "id": "deputie-575",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 575",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7476,7 +7476,7 @@
   },
   {
     "id": "deputie-576",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 576",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7489,7 +7489,7 @@
   },
   {
     "id": "deputie-577",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 577",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7502,7 +7502,7 @@
   },
   {
     "id": "deputie-578",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 578",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7515,7 +7515,7 @@
   },
   {
     "id": "deputie-579",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 579",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7528,7 +7528,7 @@
   },
   {
     "id": "deputie-580",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 580",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7541,7 +7541,7 @@
   },
   {
     "id": "deputie-581",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 581",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7554,7 +7554,7 @@
   },
   {
     "id": "deputie-582",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 582",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7567,7 +7567,7 @@
   },
   {
     "id": "deputie-583",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 583",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7580,7 +7580,7 @@
   },
   {
     "id": "deputie-584",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 584",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7593,7 +7593,7 @@
   },
   {
     "id": "deputie-585",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 585",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7606,7 +7606,7 @@
   },
   {
     "id": "deputie-586",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 586",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7619,7 +7619,7 @@
   },
   {
     "id": "deputie-587",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 587",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7632,7 +7632,7 @@
   },
   {
     "id": "deputie-588",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 588",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7645,7 +7645,7 @@
   },
   {
     "id": "deputie-589",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 589",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7658,7 +7658,7 @@
   },
   {
     "id": "deputie-590",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 590",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7671,7 +7671,7 @@
   },
   {
     "id": "deputie-591",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 591",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7684,7 +7684,7 @@
   },
   {
     "id": "deputie-592",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 592",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7697,7 +7697,7 @@
   },
   {
     "id": "deputie-593",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 593",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7710,7 +7710,7 @@
   },
   {
     "id": "deputie-594",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 594",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7723,7 +7723,7 @@
   },
   {
     "id": "deputie-595",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 595",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7736,7 +7736,7 @@
   },
   {
     "id": "deputie-596",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 596",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7749,7 +7749,7 @@
   },
   {
     "id": "deputie-597",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 597",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7762,7 +7762,7 @@
   },
   {
     "id": "deputie-598",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 598",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7775,7 +7775,7 @@
   },
   {
     "id": "deputie-599",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 599",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7788,7 +7788,7 @@
   },
   {
     "id": "deputie-600",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 600",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7801,7 +7801,7 @@
   },
   {
     "id": "deputie-601",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 601",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7814,7 +7814,7 @@
   },
   {
     "id": "deputie-602",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 602",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7827,7 +7827,7 @@
   },
   {
     "id": "deputie-603",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 603",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7840,7 +7840,7 @@
   },
   {
     "id": "deputie-604",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 604",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7853,7 +7853,7 @@
   },
   {
     "id": "deputie-605",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 605",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7866,7 +7866,7 @@
   },
   {
     "id": "deputie-606",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 606",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7879,7 +7879,7 @@
   },
   {
     "id": "deputie-607",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 607",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7892,7 +7892,7 @@
   },
   {
     "id": "deputie-608",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 608",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7905,7 +7905,7 @@
   },
   {
     "id": "deputie-609",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 609",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7918,7 +7918,7 @@
   },
   {
     "id": "deputie-610",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 610",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7931,7 +7931,7 @@
   },
   {
     "id": "deputie-611",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 611",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7944,7 +7944,7 @@
   },
   {
     "id": "deputie-612",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 612",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7957,7 +7957,7 @@
   },
   {
     "id": "deputie-613",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 613",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7970,7 +7970,7 @@
   },
   {
     "id": "deputie-614",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 614",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7983,7 +7983,7 @@
   },
   {
     "id": "deputie-615",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 615",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -7996,7 +7996,7 @@
   },
   {
     "id": "deputie-616",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 616",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8009,7 +8009,7 @@
   },
   {
     "id": "deputie-617",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 617",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8022,7 +8022,7 @@
   },
   {
     "id": "deputie-618",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 618",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8035,7 +8035,7 @@
   },
   {
     "id": "deputie-619",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 619",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8048,7 +8048,7 @@
   },
   {
     "id": "deputie-620",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 620",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8061,7 +8061,7 @@
   },
   {
     "id": "deputie-621",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 621",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8074,7 +8074,7 @@
   },
   {
     "id": "deputie-622",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 622",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8087,7 +8087,7 @@
   },
   {
     "id": "deputie-623",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 623",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8100,7 +8100,7 @@
   },
   {
     "id": "deputie-624",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 624",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8113,7 +8113,7 @@
   },
   {
     "id": "deputie-625",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 625",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8126,7 +8126,7 @@
   },
   {
     "id": "deputie-626",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 626",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8139,7 +8139,7 @@
   },
   {
     "id": "deputie-627",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 627",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8152,7 +8152,7 @@
   },
   {
     "id": "deputie-628",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 628",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8165,7 +8165,7 @@
   },
   {
     "id": "deputie-629",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 629",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8178,7 +8178,7 @@
   },
   {
     "id": "deputie-630",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 630",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8191,7 +8191,7 @@
   },
   {
     "id": "deputie-631",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 631",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8204,7 +8204,7 @@
   },
   {
     "id": "deputie-632",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 632",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8217,7 +8217,7 @@
   },
   {
     "id": "deputie-633",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 633",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8230,7 +8230,7 @@
   },
   {
     "id": "deputie-634",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 634",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8243,7 +8243,7 @@
   },
   {
     "id": "deputie-635",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 635",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8256,7 +8256,7 @@
   },
   {
     "id": "deputie-636",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 636",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8269,7 +8269,7 @@
   },
   {
     "id": "deputie-637",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 637",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8282,7 +8282,7 @@
   },
   {
     "id": "deputie-638",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 638",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8295,7 +8295,7 @@
   },
   {
     "id": "deputie-639",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 639",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8308,7 +8308,7 @@
   },
   {
     "id": "deputie-640",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 640",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8321,7 +8321,7 @@
   },
   {
     "id": "deputie-641",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 641",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8334,7 +8334,7 @@
   },
   {
     "id": "deputie-642",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 642",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8347,7 +8347,7 @@
   },
   {
     "id": "deputie-643",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 643",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8360,7 +8360,7 @@
   },
   {
     "id": "deputie-644",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 644",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8373,7 +8373,7 @@
   },
   {
     "id": "deputie-645",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 645",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8386,7 +8386,7 @@
   },
   {
     "id": "deputie-646",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 646",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8399,7 +8399,7 @@
   },
   {
     "id": "deputie-647",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 647",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8412,7 +8412,7 @@
   },
   {
     "id": "deputie-648",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 648",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8425,7 +8425,7 @@
   },
   {
     "id": "deputie-649",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 649",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8438,7 +8438,7 @@
   },
   {
     "id": "deputie-650",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 650",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8451,7 +8451,7 @@
   },
   {
     "id": "deputie-651",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 651",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8464,7 +8464,7 @@
   },
   {
     "id": "deputie-652",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 652",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8477,7 +8477,7 @@
   },
   {
     "id": "deputie-653",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 653",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8490,7 +8490,7 @@
   },
   {
     "id": "deputie-654",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 654",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8503,7 +8503,7 @@
   },
   {
     "id": "deputie-655",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 655",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8516,7 +8516,7 @@
   },
   {
     "id": "deputie-656",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 656",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8529,7 +8529,7 @@
   },
   {
     "id": "deputie-657",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 657",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8542,7 +8542,7 @@
   },
   {
     "id": "deputie-658",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 658",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8555,7 +8555,7 @@
   },
   {
     "id": "deputie-659",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 659",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8568,7 +8568,7 @@
   },
   {
     "id": "deputie-660",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 660",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8581,7 +8581,7 @@
   },
   {
     "id": "deputie-661",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 661",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8594,7 +8594,7 @@
   },
   {
     "id": "deputie-662",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 662",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8607,7 +8607,7 @@
   },
   {
     "id": "deputie-663",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 663",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8620,7 +8620,7 @@
   },
   {
     "id": "deputie-664",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 664",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8633,7 +8633,7 @@
   },
   {
     "id": "deputie-665",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 665",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8646,7 +8646,7 @@
   },
   {
     "id": "deputie-666",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 666",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8659,7 +8659,7 @@
   },
   {
     "id": "deputie-667",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 667",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8672,7 +8672,7 @@
   },
   {
     "id": "deputie-668",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 668",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8685,7 +8685,7 @@
   },
   {
     "id": "deputie-669",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 669",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8698,7 +8698,7 @@
   },
   {
     "id": "deputie-670",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 670",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8711,7 +8711,7 @@
   },
   {
     "id": "deputie-671",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 671",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8724,7 +8724,7 @@
   },
   {
     "id": "deputie-672",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 672",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8737,7 +8737,7 @@
   },
   {
     "id": "deputie-673",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 673",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8750,7 +8750,7 @@
   },
   {
     "id": "deputie-674",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 674",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8763,7 +8763,7 @@
   },
   {
     "id": "deputie-675",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 675",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8776,7 +8776,7 @@
   },
   {
     "id": "deputie-676",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 676",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8789,7 +8789,7 @@
   },
   {
     "id": "deputie-677",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 677",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8802,7 +8802,7 @@
   },
   {
     "id": "deputie-678",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 678",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8815,7 +8815,7 @@
   },
   {
     "id": "deputie-679",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 679",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8828,7 +8828,7 @@
   },
   {
     "id": "deputie-680",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 680",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8841,7 +8841,7 @@
   },
   {
     "id": "deputie-681",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 681",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8854,7 +8854,7 @@
   },
   {
     "id": "deputie-682",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 682",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8867,7 +8867,7 @@
   },
   {
     "id": "deputie-683",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 683",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8880,7 +8880,7 @@
   },
   {
     "id": "deputie-684",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 684",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8893,7 +8893,7 @@
   },
   {
     "id": "deputie-685",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 685",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8906,7 +8906,7 @@
   },
   {
     "id": "deputie-686",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 686",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8919,7 +8919,7 @@
   },
   {
     "id": "deputie-687",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 687",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8932,7 +8932,7 @@
   },
   {
     "id": "deputie-688",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 688",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8945,7 +8945,7 @@
   },
   {
     "id": "deputie-689",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 689",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8958,7 +8958,7 @@
   },
   {
     "id": "deputie-690",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 690",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8971,7 +8971,7 @@
   },
   {
     "id": "deputie-691",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 691",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8984,7 +8984,7 @@
   },
   {
     "id": "deputie-692",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 692",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -8997,7 +8997,7 @@
   },
   {
     "id": "deputie-693",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 693",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9010,7 +9010,7 @@
   },
   {
     "id": "deputie-694",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 694",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9023,7 +9023,7 @@
   },
   {
     "id": "deputie-695",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 695",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9036,7 +9036,7 @@
   },
   {
     "id": "deputie-696",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 696",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9049,7 +9049,7 @@
   },
   {
     "id": "deputie-697",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 697",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9062,7 +9062,7 @@
   },
   {
     "id": "deputie-698",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 698",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9075,7 +9075,7 @@
   },
   {
     "id": "deputie-699",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 699",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9088,7 +9088,7 @@
   },
   {
     "id": "deputie-700",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 700",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9101,7 +9101,7 @@
   },
   {
     "id": "deputie-701",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 701",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9114,7 +9114,7 @@
   },
   {
     "id": "deputie-702",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 702",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9127,7 +9127,7 @@
   },
   {
     "id": "deputie-703",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 703",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9140,7 +9140,7 @@
   },
   {
     "id": "deputie-704",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 704",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9153,7 +9153,7 @@
   },
   {
     "id": "deputie-705",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 705",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9166,7 +9166,7 @@
   },
   {
     "id": "deputie-706",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 706",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9179,7 +9179,7 @@
   },
   {
     "id": "deputie-707",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 707",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9192,7 +9192,7 @@
   },
   {
     "id": "deputie-708",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 708",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9205,7 +9205,7 @@
   },
   {
     "id": "deputie-709",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 709",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9218,7 +9218,7 @@
   },
   {
     "id": "deputie-710",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 710",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9231,7 +9231,7 @@
   },
   {
     "id": "deputie-711",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 711",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9244,7 +9244,7 @@
   },
   {
     "id": "deputie-712",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 712",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9257,7 +9257,7 @@
   },
   {
     "id": "deputie-713",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 713",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9270,7 +9270,7 @@
   },
   {
     "id": "deputie-714",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 714",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9283,7 +9283,7 @@
   },
   {
     "id": "deputie-715",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 715",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9296,7 +9296,7 @@
   },
   {
     "id": "deputie-716",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 716",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9309,7 +9309,7 @@
   },
   {
     "id": "deputie-717",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 717",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9322,7 +9322,7 @@
   },
   {
     "id": "deputie-718",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 718",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9335,7 +9335,7 @@
   },
   {
     "id": "deputie-719",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 719",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9348,7 +9348,7 @@
   },
   {
     "id": "deputie-720",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 720",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9361,7 +9361,7 @@
   },
   {
     "id": "deputie-721",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 721",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9374,7 +9374,7 @@
   },
   {
     "id": "deputie-722",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 722",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9387,7 +9387,7 @@
   },
   {
     "id": "deputie-723",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 723",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9400,7 +9400,7 @@
   },
   {
     "id": "deputie-724",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 724",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9413,7 +9413,7 @@
   },
   {
     "id": "deputie-725",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 725",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9426,7 +9426,7 @@
   },
   {
     "id": "deputie-726",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 726",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9439,7 +9439,7 @@
   },
   {
     "id": "deputie-727",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 727",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9452,7 +9452,7 @@
   },
   {
     "id": "deputie-728",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 728",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9465,7 +9465,7 @@
   },
   {
     "id": "deputie-729",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 729",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9478,7 +9478,7 @@
   },
   {
     "id": "deputie-730",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 730",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9491,7 +9491,7 @@
   },
   {
     "id": "deputie-731",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 731",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9504,7 +9504,7 @@
   },
   {
     "id": "deputie-732",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 732",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9517,7 +9517,7 @@
   },
   {
     "id": "deputie-733",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 733",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9530,7 +9530,7 @@
   },
   {
     "id": "deputie-734",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 734",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9543,7 +9543,7 @@
   },
   {
     "id": "deputie-735",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 735",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9556,7 +9556,7 @@
   },
   {
     "id": "deputie-736",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 736",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9569,7 +9569,7 @@
   },
   {
     "id": "deputie-737",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 737",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9582,7 +9582,7 @@
   },
   {
     "id": "deputie-738",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 738",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9595,7 +9595,7 @@
   },
   {
     "id": "deputie-739",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 739",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9608,7 +9608,7 @@
   },
   {
     "id": "deputie-740",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 740",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9621,7 +9621,7 @@
   },
   {
     "id": "deputie-741",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 741",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9634,7 +9634,7 @@
   },
   {
     "id": "deputie-742",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 742",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9647,7 +9647,7 @@
   },
   {
     "id": "deputie-743",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 743",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9660,7 +9660,7 @@
   },
   {
     "id": "deputie-744",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 744",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9673,7 +9673,7 @@
   },
   {
     "id": "deputie-745",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 745",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9686,7 +9686,7 @@
   },
   {
     "id": "deputie-746",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 746",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9699,7 +9699,7 @@
   },
   {
     "id": "deputie-747",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 747",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9712,7 +9712,7 @@
   },
   {
     "id": "deputie-748",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 748",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9725,7 +9725,7 @@
   },
   {
     "id": "deputie-749",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 749",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9738,7 +9738,7 @@
   },
   {
     "id": "deputie-750",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 750",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9751,7 +9751,7 @@
   },
   {
     "id": "deputie-751",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 751",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9764,7 +9764,7 @@
   },
   {
     "id": "deputie-752",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 752",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9777,7 +9777,7 @@
   },
   {
     "id": "deputie-753",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 753",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9790,7 +9790,7 @@
   },
   {
     "id": "deputie-754",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 754",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9803,7 +9803,7 @@
   },
   {
     "id": "deputie-755",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 755",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9816,7 +9816,7 @@
   },
   {
     "id": "deputie-756",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 756",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9829,7 +9829,7 @@
   },
   {
     "id": "deputie-757",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 757",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9842,7 +9842,7 @@
   },
   {
     "id": "deputie-758",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 758",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9855,7 +9855,7 @@
   },
   {
     "id": "deputie-759",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 759",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9868,7 +9868,7 @@
   },
   {
     "id": "deputie-760",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 760",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9881,7 +9881,7 @@
   },
   {
     "id": "deputie-761",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 761",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9894,7 +9894,7 @@
   },
   {
     "id": "deputie-762",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 762",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9907,7 +9907,7 @@
   },
   {
     "id": "deputie-763",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 763",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9920,7 +9920,7 @@
   },
   {
     "id": "deputie-764",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 764",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9933,7 +9933,7 @@
   },
   {
     "id": "deputie-765",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 765",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9946,7 +9946,7 @@
   },
   {
     "id": "deputie-766",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 766",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9959,7 +9959,7 @@
   },
   {
     "id": "deputie-767",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 767",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9972,7 +9972,7 @@
   },
   {
     "id": "deputie-768",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 768",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9985,7 +9985,7 @@
   },
   {
     "id": "deputie-769",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 769",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -9998,7 +9998,7 @@
   },
   {
     "id": "deputie-770",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 770",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10011,7 +10011,7 @@
   },
   {
     "id": "deputie-771",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 771",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10024,7 +10024,7 @@
   },
   {
     "id": "deputie-772",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 772",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10037,7 +10037,7 @@
   },
   {
     "id": "deputie-773",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 773",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10050,7 +10050,7 @@
   },
   {
     "id": "deputie-774",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 774",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10063,7 +10063,7 @@
   },
   {
     "id": "deputie-775",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 775",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10076,7 +10076,7 @@
   },
   {
     "id": "deputie-776",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 776",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10089,7 +10089,7 @@
   },
   {
     "id": "deputie-777",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 777",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10102,7 +10102,7 @@
   },
   {
     "id": "deputie-778",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 778",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10115,7 +10115,7 @@
   },
   {
     "id": "deputie-779",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 779",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10128,7 +10128,7 @@
   },
   {
     "id": "deputie-780",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 780",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10141,7 +10141,7 @@
   },
   {
     "id": "deputie-781",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 781",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10154,7 +10154,7 @@
   },
   {
     "id": "deputie-782",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 782",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10167,7 +10167,7 @@
   },
   {
     "id": "deputie-783",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 783",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10180,7 +10180,7 @@
   },
   {
     "id": "deputie-784",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 784",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10193,7 +10193,7 @@
   },
   {
     "id": "deputie-785",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 785",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10206,7 +10206,7 @@
   },
   {
     "id": "deputie-786",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 786",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10219,7 +10219,7 @@
   },
   {
     "id": "deputie-787",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 787",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10232,7 +10232,7 @@
   },
   {
     "id": "deputie-788",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 788",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10245,7 +10245,7 @@
   },
   {
     "id": "deputie-789",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 789",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10258,7 +10258,7 @@
   },
   {
     "id": "deputie-790",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 790",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10271,7 +10271,7 @@
   },
   {
     "id": "deputie-791",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 791",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10284,7 +10284,7 @@
   },
   {
     "id": "deputie-792",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 792",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10297,7 +10297,7 @@
   },
   {
     "id": "deputie-793",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 793",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10310,7 +10310,7 @@
   },
   {
     "id": "deputie-794",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 794",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10323,7 +10323,7 @@
   },
   {
     "id": "deputie-795",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 795",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10336,7 +10336,7 @@
   },
   {
     "id": "deputie-796",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 796",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10349,7 +10349,7 @@
   },
   {
     "id": "deputie-797",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 797",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10362,7 +10362,7 @@
   },
   {
     "id": "deputie-798",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 798",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10375,7 +10375,7 @@
   },
   {
     "id": "deputie-799",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 799",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10388,7 +10388,7 @@
   },
   {
     "id": "deputie-800",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 800",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10401,7 +10401,7 @@
   },
   {
     "id": "deputie-801",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 801",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10414,7 +10414,7 @@
   },
   {
     "id": "deputie-802",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 802",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10427,7 +10427,7 @@
   },
   {
     "id": "deputie-803",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 803",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10440,7 +10440,7 @@
   },
   {
     "id": "deputie-804",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 804",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10453,7 +10453,7 @@
   },
   {
     "id": "deputie-805",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 805",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10466,7 +10466,7 @@
   },
   {
     "id": "deputie-806",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 806",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10479,7 +10479,7 @@
   },
   {
     "id": "deputie-807",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 807",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10492,7 +10492,7 @@
   },
   {
     "id": "deputie-808",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 808",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10505,7 +10505,7 @@
   },
   {
     "id": "deputie-809",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 809",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10518,7 +10518,7 @@
   },
   {
     "id": "deputie-810",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 810",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10531,7 +10531,7 @@
   },
   {
     "id": "deputie-811",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 811",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10544,7 +10544,7 @@
   },
   {
     "id": "deputie-812",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 812",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10557,7 +10557,7 @@
   },
   {
     "id": "deputie-813",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 813",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10570,7 +10570,7 @@
   },
   {
     "id": "deputie-814",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 814",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10583,7 +10583,7 @@
   },
   {
     "id": "deputie-815",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 815",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10596,7 +10596,7 @@
   },
   {
     "id": "deputie-816",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 816",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10609,7 +10609,7 @@
   },
   {
     "id": "deputie-817",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 817",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10622,7 +10622,7 @@
   },
   {
     "id": "deputie-818",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 818",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10635,7 +10635,7 @@
   },
   {
     "id": "deputie-819",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 819",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10648,7 +10648,7 @@
   },
   {
     "id": "deputie-820",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 820",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10661,7 +10661,7 @@
   },
   {
     "id": "deputie-821",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 821",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10674,7 +10674,7 @@
   },
   {
     "id": "deputie-822",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 822",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10687,7 +10687,7 @@
   },
   {
     "id": "deputie-823",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 823",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10700,7 +10700,7 @@
   },
   {
     "id": "deputie-824",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 824",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10713,7 +10713,7 @@
   },
   {
     "id": "deputie-825",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 825",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10726,7 +10726,7 @@
   },
   {
     "id": "deputie-826",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 826",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10739,7 +10739,7 @@
   },
   {
     "id": "deputie-827",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 827",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10752,7 +10752,7 @@
   },
   {
     "id": "deputie-828",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 828",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10765,7 +10765,7 @@
   },
   {
     "id": "deputie-829",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 829",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10778,7 +10778,7 @@
   },
   {
     "id": "deputie-830",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 830",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10791,7 +10791,7 @@
   },
   {
     "id": "deputie-831",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 831",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10804,7 +10804,7 @@
   },
   {
     "id": "deputie-832",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 832",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10817,7 +10817,7 @@
   },
   {
     "id": "deputie-833",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 833",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10830,7 +10830,7 @@
   },
   {
     "id": "deputie-834",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 834",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10843,7 +10843,7 @@
   },
   {
     "id": "deputie-835",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 835",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10856,7 +10856,7 @@
   },
   {
     "id": "deputie-836",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 836",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10869,7 +10869,7 @@
   },
   {
     "id": "deputie-837",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 837",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10882,7 +10882,7 @@
   },
   {
     "id": "deputie-838",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 838",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10895,7 +10895,7 @@
   },
   {
     "id": "deputie-839",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 839",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10908,7 +10908,7 @@
   },
   {
     "id": "deputie-840",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 840",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10921,7 +10921,7 @@
   },
   {
     "id": "deputie-841",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 841",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10934,7 +10934,7 @@
   },
   {
     "id": "deputie-842",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 842",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10947,7 +10947,7 @@
   },
   {
     "id": "deputie-843",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 843",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10960,7 +10960,7 @@
   },
   {
     "id": "deputie-844",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 844",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10973,7 +10973,7 @@
   },
   {
     "id": "deputie-845",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 845",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10986,7 +10986,7 @@
   },
   {
     "id": "deputie-846",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 846",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -10999,7 +10999,7 @@
   },
   {
     "id": "deputie-847",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 847",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11012,7 +11012,7 @@
   },
   {
     "id": "deputie-848",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 848",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11025,7 +11025,7 @@
   },
   {
     "id": "deputie-849",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 849",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11038,7 +11038,7 @@
   },
   {
     "id": "deputie-850",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 850",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11051,7 +11051,7 @@
   },
   {
     "id": "deputie-851",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 851",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11064,7 +11064,7 @@
   },
   {
     "id": "deputie-852",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 852",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11077,7 +11077,7 @@
   },
   {
     "id": "deputie-853",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 853",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11090,7 +11090,7 @@
   },
   {
     "id": "deputie-854",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 854",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11103,7 +11103,7 @@
   },
   {
     "id": "deputie-855",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 855",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11116,7 +11116,7 @@
   },
   {
     "id": "deputie-856",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 856",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11129,7 +11129,7 @@
   },
   {
     "id": "deputie-857",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 857",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11142,7 +11142,7 @@
   },
   {
     "id": "deputie-858",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 858",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11155,7 +11155,7 @@
   },
   {
     "id": "deputie-859",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 859",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11168,7 +11168,7 @@
   },
   {
     "id": "deputie-860",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 860",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11181,7 +11181,7 @@
   },
   {
     "id": "deputie-861",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 861",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11194,7 +11194,7 @@
   },
   {
     "id": "deputie-862",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 862",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11207,7 +11207,7 @@
   },
   {
     "id": "deputie-863",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 863",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11220,7 +11220,7 @@
   },
   {
     "id": "deputie-864",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 864",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11233,7 +11233,7 @@
   },
   {
     "id": "deputie-865",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 865",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11246,7 +11246,7 @@
   },
   {
     "id": "deputie-866",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 866",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11259,7 +11259,7 @@
   },
   {
     "id": "deputie-867",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 867",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11272,7 +11272,7 @@
   },
   {
     "id": "deputie-868",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 868",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11285,7 +11285,7 @@
   },
   {
     "id": "deputie-869",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 869",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11298,7 +11298,7 @@
   },
   {
     "id": "deputie-870",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 870",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11311,7 +11311,7 @@
   },
   {
     "id": "deputie-871",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 871",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11324,7 +11324,7 @@
   },
   {
     "id": "deputie-872",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 872",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11337,7 +11337,7 @@
   },
   {
     "id": "deputie-873",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 873",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11350,7 +11350,7 @@
   },
   {
     "id": "deputie-874",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 874",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11363,7 +11363,7 @@
   },
   {
     "id": "deputie-875",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 875",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11376,7 +11376,7 @@
   },
   {
     "id": "deputie-876",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 876",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11389,7 +11389,7 @@
   },
   {
     "id": "deputie-877",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 877",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11402,7 +11402,7 @@
   },
   {
     "id": "deputie-878",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 878",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11415,7 +11415,7 @@
   },
   {
     "id": "deputie-879",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 879",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11428,7 +11428,7 @@
   },
   {
     "id": "deputie-880",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 880",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11441,7 +11441,7 @@
   },
   {
     "id": "deputie-881",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 881",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11454,7 +11454,7 @@
   },
   {
     "id": "deputie-882",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 882",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11467,7 +11467,7 @@
   },
   {
     "id": "deputie-883",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 883",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11480,7 +11480,7 @@
   },
   {
     "id": "deputie-884",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 884",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11493,7 +11493,7 @@
   },
   {
     "id": "deputie-885",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 885",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11506,7 +11506,7 @@
   },
   {
     "id": "deputie-886",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 886",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11519,7 +11519,7 @@
   },
   {
     "id": "deputie-887",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 887",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11532,7 +11532,7 @@
   },
   {
     "id": "deputie-888",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 888",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11545,7 +11545,7 @@
   },
   {
     "id": "deputie-889",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 889",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11558,7 +11558,7 @@
   },
   {
     "id": "deputie-890",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 890",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11571,7 +11571,7 @@
   },
   {
     "id": "deputie-891",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 891",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11584,7 +11584,7 @@
   },
   {
     "id": "deputie-892",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 892",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11597,7 +11597,7 @@
   },
   {
     "id": "deputie-893",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 893",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11610,7 +11610,7 @@
   },
   {
     "id": "deputie-894",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 894",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11623,7 +11623,7 @@
   },
   {
     "id": "deputie-895",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 895",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11636,7 +11636,7 @@
   },
   {
     "id": "deputie-896",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 896",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11649,7 +11649,7 @@
   },
   {
     "id": "deputie-897",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 897",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11662,7 +11662,7 @@
   },
   {
     "id": "deputie-898",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 898",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11675,7 +11675,7 @@
   },
   {
     "id": "deputie-899",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 899",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11688,7 +11688,7 @@
   },
   {
     "id": "deputie-900",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 900",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11701,7 +11701,7 @@
   },
   {
     "id": "deputie-901",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 901",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11714,7 +11714,7 @@
   },
   {
     "id": "deputie-902",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 902",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11727,7 +11727,7 @@
   },
   {
     "id": "deputie-903",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 903",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11740,7 +11740,7 @@
   },
   {
     "id": "deputie-904",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 904",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11753,7 +11753,7 @@
   },
   {
     "id": "deputie-905",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 905",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11766,7 +11766,7 @@
   },
   {
     "id": "deputie-906",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 906",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11779,7 +11779,7 @@
   },
   {
     "id": "deputie-907",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 907",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11792,7 +11792,7 @@
   },
   {
     "id": "deputie-908",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 908",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11805,7 +11805,7 @@
   },
   {
     "id": "deputie-909",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 909",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11818,7 +11818,7 @@
   },
   {
     "id": "deputie-910",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 910",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11831,7 +11831,7 @@
   },
   {
     "id": "deputie-911",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 911",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11844,7 +11844,7 @@
   },
   {
     "id": "deputie-912",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 912",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11857,7 +11857,7 @@
   },
   {
     "id": "deputie-913",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 913",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11870,7 +11870,7 @@
   },
   {
     "id": "deputie-914",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 914",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11883,7 +11883,7 @@
   },
   {
     "id": "deputie-915",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 915",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11896,7 +11896,7 @@
   },
   {
     "id": "deputie-916",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 916",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11909,7 +11909,7 @@
   },
   {
     "id": "deputie-917",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 917",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11922,7 +11922,7 @@
   },
   {
     "id": "deputie-918",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 918",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11935,7 +11935,7 @@
   },
   {
     "id": "deputie-919",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 919",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11948,7 +11948,7 @@
   },
   {
     "id": "deputie-920",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 920",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11961,7 +11961,7 @@
   },
   {
     "id": "deputie-921",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 921",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11974,7 +11974,7 @@
   },
   {
     "id": "deputie-922",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 922",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -11987,7 +11987,7 @@
   },
   {
     "id": "deputie-923",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 923",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12000,7 +12000,7 @@
   },
   {
     "id": "deputie-924",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 924",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12013,7 +12013,7 @@
   },
   {
     "id": "deputie-925",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 925",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12026,7 +12026,7 @@
   },
   {
     "id": "deputie-926",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 926",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12039,7 +12039,7 @@
   },
   {
     "id": "deputie-927",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 927",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12052,7 +12052,7 @@
   },
   {
     "id": "deputie-928",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 928",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12065,7 +12065,7 @@
   },
   {
     "id": "deputie-929",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 929",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12078,7 +12078,7 @@
   },
   {
     "id": "deputie-930",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 930",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12091,7 +12091,7 @@
   },
   {
     "id": "deputie-931",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 931",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12104,7 +12104,7 @@
   },
   {
     "id": "deputie-932",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 932",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12117,7 +12117,7 @@
   },
   {
     "id": "deputie-933",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 933",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12130,7 +12130,7 @@
   },
   {
     "id": "deputie-934",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 934",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12143,7 +12143,7 @@
   },
   {
     "id": "deputie-935",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 935",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12156,7 +12156,7 @@
   },
   {
     "id": "deputie-936",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 936",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12169,7 +12169,7 @@
   },
   {
     "id": "deputie-937",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 937",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12182,7 +12182,7 @@
   },
   {
     "id": "deputie-938",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 938",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12195,7 +12195,7 @@
   },
   {
     "id": "deputie-939",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 939",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12208,7 +12208,7 @@
   },
   {
     "id": "deputie-940",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 940",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12221,7 +12221,7 @@
   },
   {
     "id": "deputie-941",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 941",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12234,7 +12234,7 @@
   },
   {
     "id": "deputie-942",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 942",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12247,7 +12247,7 @@
   },
   {
     "id": "deputie-943",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 943",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12260,7 +12260,7 @@
   },
   {
     "id": "deputie-944",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 944",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12273,7 +12273,7 @@
   },
   {
     "id": "deputie-945",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 945",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12286,7 +12286,7 @@
   },
   {
     "id": "deputie-946",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 946",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12299,7 +12299,7 @@
   },
   {
     "id": "deputie-947",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 947",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12312,7 +12312,7 @@
   },
   {
     "id": "deputie-948",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 948",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12325,7 +12325,7 @@
   },
   {
     "id": "deputie-949",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 949",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12338,7 +12338,7 @@
   },
   {
     "id": "deputie-950",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 950",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12351,7 +12351,7 @@
   },
   {
     "id": "deputie-951",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 951",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12364,7 +12364,7 @@
   },
   {
     "id": "deputie-952",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 952",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12377,7 +12377,7 @@
   },
   {
     "id": "deputie-953",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 953",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12390,7 +12390,7 @@
   },
   {
     "id": "deputie-954",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 954",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12403,7 +12403,7 @@
   },
   {
     "id": "deputie-955",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 955",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12416,7 +12416,7 @@
   },
   {
     "id": "deputie-956",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 956",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12429,7 +12429,7 @@
   },
   {
     "id": "deputie-957",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 957",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12442,7 +12442,7 @@
   },
   {
     "id": "deputie-958",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 958",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12455,7 +12455,7 @@
   },
   {
     "id": "deputie-959",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 959",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12468,7 +12468,7 @@
   },
   {
     "id": "deputie-960",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 960",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12481,7 +12481,7 @@
   },
   {
     "id": "deputie-961",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 961",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12494,7 +12494,7 @@
   },
   {
     "id": "deputie-962",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 962",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12507,7 +12507,7 @@
   },
   {
     "id": "deputie-963",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 963",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12520,7 +12520,7 @@
   },
   {
     "id": "deputie-964",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 964",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12533,7 +12533,7 @@
   },
   {
     "id": "deputie-965",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 965",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12546,7 +12546,7 @@
   },
   {
     "id": "deputie-966",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 966",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12559,7 +12559,7 @@
   },
   {
     "id": "deputie-967",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 967",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12572,7 +12572,7 @@
   },
   {
     "id": "deputie-968",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 968",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12585,7 +12585,7 @@
   },
   {
     "id": "deputie-969",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 969",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12598,7 +12598,7 @@
   },
   {
     "id": "deputie-970",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 970",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12611,7 +12611,7 @@
   },
   {
     "id": "deputie-971",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 971",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12624,7 +12624,7 @@
   },
   {
     "id": "deputie-972",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 972",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12637,7 +12637,7 @@
   },
   {
     "id": "deputie-973",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 973",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12650,7 +12650,7 @@
   },
   {
     "id": "deputie-974",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 974",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12663,7 +12663,7 @@
   },
   {
     "id": "deputie-975",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 975",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12676,7 +12676,7 @@
   },
   {
     "id": "deputie-976",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 976",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12689,7 +12689,7 @@
   },
   {
     "id": "deputie-977",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 977",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12702,7 +12702,7 @@
   },
   {
     "id": "deputie-978",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 978",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12715,7 +12715,7 @@
   },
   {
     "id": "deputie-979",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 979",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12728,7 +12728,7 @@
   },
   {
     "id": "deputie-980",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 980",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12741,7 +12741,7 @@
   },
   {
     "id": "deputie-981",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 981",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12754,7 +12754,7 @@
   },
   {
     "id": "deputie-982",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 982",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12767,7 +12767,7 @@
   },
   {
     "id": "deputie-983",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 983",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12780,7 +12780,7 @@
   },
   {
     "id": "deputie-984",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 984",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12793,7 +12793,7 @@
   },
   {
     "id": "deputie-985",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 985",
     "partido": "10",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12806,7 +12806,7 @@
   },
   {
     "id": "deputie-986",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 986",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12819,7 +12819,7 @@
   },
   {
     "id": "deputie-987",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 987",
     "partido": "12",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12832,7 +12832,7 @@
   },
   {
     "id": "deputie-988",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 988",
     "partido": "13",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12845,7 +12845,7 @@
   },
   {
     "id": "deputie-989",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 989",
     "partido": "14",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12858,7 +12858,7 @@
   },
   {
     "id": "deputie-990",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 990",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12871,7 +12871,7 @@
   },
   {
     "id": "deputie-991",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 991",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12884,7 +12884,7 @@
   },
   {
     "id": "deputie-992",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 992",
     "partido": "1",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12897,7 +12897,7 @@
   },
   {
     "id": "deputie-993",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 993",
     "partido": "2",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12910,7 +12910,7 @@
   },
   {
     "id": "deputie-994",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 994",
     "partido": "3",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12923,7 +12923,7 @@
   },
   {
     "id": "deputie-995",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 995",
     "partido": "4",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12936,7 +12936,7 @@
   },
   {
     "id": "deputie-996",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 996",
     "partido": "5",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12949,7 +12949,7 @@
   },
   {
     "id": "deputie-997",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 997",
     "partido": "6",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12962,7 +12962,7 @@
   },
   {
     "id": "deputie-998",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 998",
     "partido": "7",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12975,7 +12975,7 @@
   },
   {
     "id": "deputie-999",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 999",
     "partido": "8",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -12988,7 +12988,7 @@
   },
   {
     "id": "deputie-1000",
-    "nombre": "Denton Hensley",
+    "nombre": "Candidato 1000",
     "partido": "9",
     "edad": "39",
     "estadoCivil": "Estado Civil",

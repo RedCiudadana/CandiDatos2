@@ -1,7 +1,7 @@
 [
   {
     "id": "president-1",
-    "nombre": "Perfili Jose",
+    "nombre": "Candidato 1",
     "partido": "1",
     "edad": "45",
     "estadoCivil": "Estado Civil",
@@ -14,7 +14,7 @@
   },
   {
     "id": "president-2",
-    "nombre": "Brody Ray",
+    "nombre": "Candidato 2",
     "partido": "2",
     "edad": "30",
     "estadoCivil": "Estado Civil",
@@ -27,7 +27,7 @@
   },
   {
     "id": "president-3",
-    "nombre": "Keegan Johnson",
+    "nombre": "Candidato 3",
     "partido": "3",
     "edad": "85",
     "estadoCivil": "Estado Civil",
@@ -40,7 +40,7 @@
   },
   {
     "id": "president-4",
-    "nombre": "Camden Jennings",
+    "nombre": "Candidato 4",
     "partido": "4",
     "edad": "42",
     "estadoCivil": "Estado Civil",
@@ -53,7 +53,7 @@
   },
   {
     "id": "president-5",
-    "nombre": "Joel Morton",
+    "nombre": "Candidato 5",
     "partido": "5",
     "edad": "52",
     "estadoCivil": "Estado Civil",
@@ -66,7 +66,7 @@
   },
   {
     "id": "president-6",
-    "nombre": "Dexter Russo",
+    "nombre": "Candidato 6",
     "partido": "6",
     "edad": "86",
     "estadoCivil": "Estado Civil",
@@ -79,7 +79,7 @@
   },
   {
     "id": "president-7",
-    "nombre": "Sebastian Marshall",
+    "nombre": "Candidato 7",
     "partido": "7",
     "edad": "72",
     "estadoCivil": "Estado Civil",
@@ -92,7 +92,7 @@
   },
   {
     "id": "president-8",
-    "nombre": "Octavius Beard",
+    "nombre": "Candidato 8",
     "partido": "8",
     "edad": "77",
     "estadoCivil": "Estado Civil",
@@ -105,7 +105,7 @@
   },
   {
     "id": "president-9",
-    "nombre": "Edan Landry",
+    "nombre": "Candidato 9",
     "partido": "9",
     "edad": "54",
     "estadoCivil": "Estado Civil",
@@ -118,7 +118,7 @@
   },
   {
     "id": "president-10",
-    "nombre": "Mohammad Weaver",
+    "nombre": "Candidato 10",
     "partido": "10",
     "edad": "31",
     "estadoCivil": "Estado Civil",
@@ -131,7 +131,7 @@
   },
   {
     "id": "president-11",
-    "nombre": "Peter Bean",
+    "nombre": "Candidato 11",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -144,7 +144,7 @@
   },
   {
     "id": "president-12",
-    "nombre": "Kieran Duncan",
+    "nombre": "Candidato 12",
     "partido": "12",
     "edad": "66",
     "estadoCivil": "Estado Civil",
@@ -157,7 +157,7 @@
   },
   {
     "id": "president-13",
-    "nombre": "Lars Reyes",
+    "nombre": "Candidato 13",
     "partido": "13",
     "edad": "67",
     "estadoCivil": "Estado Civil",
@@ -170,7 +170,7 @@
   },
   {
     "id": "president-14",
-    "nombre": "Jerome Rosa",
+    "nombre": "Candidato 14",
     "partido": "14",
     "edad": "36",
     "estadoCivil": "Estado Civil",
@@ -183,7 +183,7 @@
   },
   {
     "id": "president-15",
-    "nombre": "Denton Hensley",
+    "nombre": "Candidato 15",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
