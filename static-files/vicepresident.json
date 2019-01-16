@@ -1,8 +1,7 @@
 [
   {
-    "id": "president-1",
-    "nombre": "Candidato 1",
-    "vicepresident": "vicepresident-1",
+    "id": "vicepresident-1",
+    "nombre": "Vicepresidente 1",
     "partido": "1",
     "edad": "45",
     "estadoCivil": "Estado Civil",
@@ -18,9 +17,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-2",
-    "nombre": "Candidato 2",
-    "vicepresident": "vicepresident-2",
+    "id": "vicepresident-2",
+    "nombre": "Vicepresidente 2",
     "partido": "2",
     "edad": "30",
     "estadoCivil": "Estado Civil",
@@ -36,9 +34,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-3",
-    "nombre": "Candidato 3",
-    "vicepresident": "vicepresident-3",
+    "id": "vicepresident-3",
+    "nombre": "Vicepresidente 3",
     "partido": "3",
     "edad": "85",
     "estadoCivil": "Estado Civil",
@@ -54,9 +51,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-4",
-    "nombre": "Candidato 4",
-    "vicepresident": "vicepresident-4",
+    "id": "vicepresident-4",
+    "nombre": "Vicepresidente 4",
     "partido": "4",
     "edad": "42",
     "estadoCivil": "Estado Civil",
@@ -72,9 +68,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-5",
-    "nombre": "Candidato 5",
-    "vicepresident": "vicepresident-5",
+    "id": "vicepresident-5",
+    "nombre": "Vicepresidente 5",
     "partido": "5",
     "edad": "52",
     "estadoCivil": "Estado Civil",
@@ -90,9 +85,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-6",
-    "nombre": "Candidato 6",
-    "vicepresident": "vicepresident-6",
+    "id": "vicepresident-6",
+    "nombre": "Vicepresidente 6",
     "partido": "6",
     "edad": "86",
     "estadoCivil": "Estado Civil",
@@ -108,9 +102,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-7",
-    "nombre": "Candidato 7",
-    "vicepresident": "vicepresident-7",
+    "id": "vicepresident-7",
+    "nombre": "Vicepresidente 7",
     "partido": "7",
     "edad": "72",
     "estadoCivil": "Estado Civil",
@@ -126,9 +119,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-8",
-    "nombre": "Candidato 8",
-    "vicepresident": "vicepresident-8",
+    "id": "vicepresident-8",
+    "nombre": "Vicepresidente 8",
     "partido": "8",
     "edad": "77",
     "estadoCivil": "Estado Civil",
@@ -144,9 +136,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-9",
-    "nombre": "Candidato 9",
-    "vicepresident": "vicepresident-9",
+    "id": "vicepresident-9",
+    "nombre": "Vicepresidente 9",
     "partido": "9",
     "edad": "54",
     "estadoCivil": "Estado Civil",
@@ -162,9 +153,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-10",
-    "nombre": "Candidato 10",
-    "vicepresident": "vicepresident-10",
+    "id": "vicepresident-10",
+    "nombre": "Vicepresidente 10",
     "partido": "10",
     "edad": "31",
     "estadoCivil": "Estado Civil",
@@ -180,9 +170,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-11",
-    "nombre": "Candidato 11",
-    "vicepresident": "vicepresident-11",
+    "id": "vicepresident-11",
+    "nombre": "Vicepresidente 11",
     "partido": "11",
     "edad": "39",
     "estadoCivil": "Estado Civil",
@@ -198,9 +187,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-12",
-    "nombre": "Candidato 12",
-    "vicepresident": "vicepresident-12",
+    "id": "vicepresident-12",
+    "nombre": "Vicepresidente 12",
     "partido": "12",
     "edad": "66",
     "estadoCivil": "Estado Civil",
@@ -216,9 +204,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-13",
-    "nombre": "Candidato 13",
-    "vicepresident": "vicepresident-13",
+    "id": "vicepresident-13",
+    "nombre": "Vicepresidente 13",
     "partido": "13",
     "edad": "67",
     "estadoCivil": "Estado Civil",
@@ -234,9 +221,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-14",
-    "nombre": "Candidato 14",
-    "vicepresident": "vicepresident-14",
+    "id": "vicepresident-14",
+    "nombre": "Vicepresidente 14",
     "partido": "14",
     "edad": "36",
     "estadoCivil": "Estado Civil",
@@ -252,9 +238,8 @@
     "fotoURL": ""
   },
   {
-    "id": "president-15",
-    "nombre": "Candidato 15",
-    "vicepresident": "vicepresident-15",
+    "id": "vicepresident-15",
+    "nombre": "Vicepresidente 15",
     "partido": "15",
     "edad": "39",
     "estadoCivil": "Estado Civil",
