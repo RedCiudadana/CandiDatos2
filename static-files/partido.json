@@ -7,7 +7,7 @@
     "secretarioGeneral": "Pedro Adolfo Catalán Muñoz\n",
     "numeroAfiliados": "26994",
     "direccion": "9a avenida 0-19 zona 2 Oficina 403. Edificio Isabel la Católica",
-    "web": "www.partido1.sv",
+    "web": "https://www.avanzaguatemala.org/\n",
     "correo": "info@partido1.sv",
     "fb": "www.facebook.com/1",
     "tw": "www.twitter.com/1",
@@ -60,14 +60,14 @@
     "nombreCorto": "EG",
     "nombreCompleto": "Encuentro por Guatemala",
     "fechaInscripcion": "00/00/0000",
-    "secretarioGeneral": "Licenciada Nineth Varencia Montenegro Cottom",
+    "secretarioGeneral": "Nineth Varencia Montenegro Cottom",
     "numeroAfiliados": "27054",
     "direccion": "6ta calle 1-36 zona 10, Edificio Valsari, cuarto nivel oficina 402.",
     "web": "www.partido1.sv",
     "correo": "info@partido1.sv",
     "fb": "www.facebook.com/5",
     "tw": "www.twitter.com/5",
-    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/eg.png"
+    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/eg.jpg"
   },
   {
     "id": "6",
@@ -151,7 +151,7 @@
     "correo": "info@partido1.sv",
     "fb": "www.facebook.com/11",
     "tw": "www.twitter.com/11",
-    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/pan.png"
+    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/pan.jpg"
   },
   {
     "id": "12",
@@ -207,7 +207,7 @@
     "correo": "info@partido1.sv",
     "fb": "www.facebook.com/15",
     "tw": "www.twitter.com/15",
-    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/podemos.png"
+    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/podemos.jpg"
   },
   {
     "id": "16",
@@ -319,7 +319,7 @@
     "correo": "info@partido1.sv",
     "fb": "www.facebook.com/23",
     "tw": "www.twitter.com/23",
-    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/urngmaiz.png"
+    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/urngmaiz.jpg"
   },
   {
     "id": "24",
@@ -333,7 +333,7 @@
     "correo": "info@partido1.sv",
     "fb": "www.facebook.com/24",
     "tw": "www.twitter.com/24",
-    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/valor.png"
+    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/valor.jpg"
   },
   {
     "id": "25",
@@ -389,6 +389,6 @@
     "correo": "info@partido1.sv",
     "fb": "www.facebook.com/28",
     "tw": "www.twitter.com/28",
-    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/winaq.png"
+    "logoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/partidos/logos/winaq.jpg"
   }
 ]

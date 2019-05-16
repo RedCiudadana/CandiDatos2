@@ -86,23 +86,6 @@
   },
   {
     "id": "vicepresident-6",
-    "nombre": "Manuel Abundio Maldonado Estrada",
-    "partido": "7",
-    "edad": "86",
-    "estadoCivil": "Estado Civil",
-    "lugarDeNacimiento": "Guatemala, Guatemala",
-    "fechaDeNacimiento": "00/00/00",
-    "anosProfesional": "17",
-    "numeroColegiado": "Colegiado",
-    "web": "www.president.com",
-    "correo": "nombre@president.com",
-    "sexo": "Masculino",
-    "fb": "https://www.facebook.com/Redciudadanagt/",
-    "tw": "RedxGuate",
-    "fotoURL": ""
-  },
-  {
-    "id": "vicepresident-7",
     "nombre": "Jorge Alberto Perez Marroquin",
     "partido": "13",
     "edad": "72",
@@ -119,7 +102,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-8",
+    "id": "vicepresident-7",
     "nombre": "Carlos Roberto Perez Gaitan",
     "partido": "8",
     "edad": "77",
@@ -136,7 +119,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-9",
+    "id": "vicepresident-8",
     "nombre": "Neftalí López Miranda",
     "partido": "10",
     "edad": "54",
@@ -153,24 +136,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-10",
-    "nombre": "Jonathan Kiril Thomas Menkos Zeissig",
-    "partido": "17",
-    "edad": "31",
-    "estadoCivil": "Estado Civil",
-    "lugarDeNacimiento": "Guatemala, Guatemala",
-    "fechaDeNacimiento": "00/00/00",
-    "anosProfesional": "29",
-    "numeroColegiado": "Colegiado",
-    "web": "www.president.com",
-    "correo": "nombre@president.com",
-    "sexo": "Masculino",
-    "fb": "https://www.facebook.com/Redciudadanagt/",
-    "tw": "RedxGuate",
-    "fotoURL": ""
-  },
-  {
-    "id": "vicepresident-11",
+    "id": "vicepresident-9",
     "nombre": "José Antonio Farias Ródil ",
     "partido": "11",
     "edad": "39",
@@ -187,24 +153,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-12",
-    "nombre": "Blanca Alfaro ",
-    "partido": "12",
-    "edad": "66",
-    "estadoCivil": "Estado Civil",
-    "lugarDeNacimiento": "Guatemala, Guatemala",
-    "fechaDeNacimiento": "00/00/00",
-    "anosProfesional": "31",
-    "numeroColegiado": "Colegiado",
-    "web": "www.president.com",
-    "correo": "nombre@president.com",
-    "sexo": "Masculino",
-    "fb": "https://www.facebook.com/Redciudadanagt/",
-    "tw": "RedxGuate",
-    "fotoURL": ""
-  },
-  {
-    "id": "vicepresident-13",
+    "id": "vicepresident-10",
     "nombre": "Mario Guillermo Gonzalez Flores",
     "partido": "16",
     "edad": "67",
@@ -221,7 +170,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-14",
+    "id": "vicepresident-11",
     "nombre": "Ricardo Sagastume Morales",
     "partido": "18",
     "edad": "36",
@@ -238,24 +187,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-15",
-    "nombre": "Otto Javier Castillo Valenzuela",
-    "partido": "19",
-    "edad": "39",
-    "estadoCivil": "Estado Civil",
-    "lugarDeNacimiento": "Guatemala, Guatemala",
-    "fechaDeNacimiento": "00/00/00",
-    "anosProfesional": "34",
-    "numeroColegiado": "Colegiado",
-    "web": "www.president.com",
-    "correo": "nombre@president.com",
-    "sexo": "Femenino",
-    "fb": "https://www.facebook.com/Redciudadanagt/",
-    "tw": "RedxGuate",
-    "fotoURL": ""
-  },
-  {
-    "id": "vicepresident-16",
+    "id": "vicepresident-12",
     "nombre": "Carlos Raúl Morales Moscoso",
     "partido": "20",
     "edad": "",
@@ -272,7 +204,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-17",
+    "id": "vicepresident-13",
     "nombre": "Manuel Arturo Soto Aguirre",
     "partido": "21",
     "edad": "",
@@ -289,7 +221,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-18",
+    "id": "vicepresident-14",
     "nombre": "Roberto Villeda Arguedas",
     "partido": "22",
     "edad": "",
@@ -306,7 +238,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-19",
+    "id": "vicepresident-15",
     "nombre": "Blanca Estela Colop Alvarado",
     "partido": "23",
     "edad": "",
@@ -323,24 +255,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-20",
-    "nombre": "Roberto Molina Barreto",
-    "partido": "24",
-    "edad": "",
-    "estadoCivil": "",
-    "lugarDeNacimiento": "",
-    "fechaDeNacimiento": "",
-    "anosProfesional": "",
-    "numeroColegiado": "",
-    "web": "",
-    "correo": "",
-    "sexo": "",
-    "fb": "",
-    "tw": "",
-    "fotoURL": ""
-  },
-  {
-    "id": "vicepresident-21",
+    "id": "vicepresident-16",
     "nombre": "Cesar Guillermo Castillo Reyes",
     "partido": "25",
     "edad": "",
@@ -357,7 +272,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-22",
+    "id": "vicepresident-17",
     "nombre": "Erico Alejandro Can Saquic",
     "partido": "26",
     "edad": "",
@@ -374,7 +289,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-23",
+    "id": "vicepresident-18",
     "nombre": "Ricardo Alfredo Flores Asturias ",
     "partido": "27",
     "edad": "",
@@ -391,7 +306,7 @@
     "fotoURL": ""
   },
   {
-    "id": "vicepresident-24",
+    "id": "vicepresident-19",
     "nombre": "Liliana Isabel Hernandez Estrada",
     "partido": "28",
     "edad": "",

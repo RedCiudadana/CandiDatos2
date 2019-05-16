@@ -96,25 +96,6 @@
   },
   {
     "id": "president-6",
-    "nombre": "José Mauricio Radford Hernández",
-    "vicepresident": "Manuel Abundio Maldonado Estrada",
-    "nombrePartido (noEmber)": "Fuerza",
-    "partido": "7",
-    "edad": "45",
-    "estadoCivil": "Estado Civil",
-    "lugarDeNacimiento": "Guatemala, Guatemala",
-    "fechaDeNacimiento": "00/00/00",
-    "anosProfesional": "20",
-    "numeroColegiado": "Colegiado",
-    "web": "www.president.com",
-    "correo": "nombre@president.com",
-    "sexo": "Masculino",
-    "fb": "https://www.facebook.com/mauricio.radford.fuerza",
-    "tw": "https://twitter.com/mradford2",
-    "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/01.png"
-  },
-  {
-    "id": "president-7",
     "nombre": "Edmond Auguste Mulet Lesieur",
     "vicepresident": "Jorge Alberto Perez Marroquin",
     "nombrePartido (noEmber)": "Humanista",
@@ -133,7 +114,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/19.png"
   },
   {
-    "id": "president-8",
+    "id": "president-7",
     "nombre": "Rodolfo Anibal García Hernandez",
     "vicepresident": "Carlos Roberto Perez Gaitan",
     "nombrePartido (noEmber)": "Libre",
@@ -152,7 +133,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/21.png"
   },
   {
-    "id": "president-9",
+    "id": "president-8",
     "nombre": "Thelma Cabrera",
     "vicepresident": "Neftalí López Miranda",
     "nombrePartido (noEmber)": "MLP",
@@ -171,26 +152,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/23.png"
   },
   {
-    "id": "president-10",
-    "nombre": "Thelma Esperanza Aldana Hernández",
-    "vicepresident": "Jonathan Kiril Thomas Menkos Zeissig",
-    "nombrePartido (noEmber)": "Movimiento Semilla",
-    "partido": "17",
-    "edad": "39",
-    "estadoCivil": "Estado Civil",
-    "lugarDeNacimiento": "Guatemala, Guatemala",
-    "fechaDeNacimiento": "00/00/00",
-    "anosProfesional": "34",
-    "numeroColegiado": "Colegiado",
-    "web": "www.president.com",
-    "correo": "nombre@president.com",
-    "sexo": "Femenino",
-    "fb": "https://www.facebook.com/ThelmaEAldana/",
-    "tw": "https://twitter.com/ThelmaAldana?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-    "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/15.png"
-  },
-  {
-    "id": "president-11",
+    "id": "president-9",
     "nombre": "Roberto Arzú Garcia-Granados",
     "vicepresident": "José Antonio Farias Ródil ",
     "nombrePartido (noEmber)": "Pan-Podemos",
@@ -209,26 +171,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/22.png"
   },
   {
-    "id": "president-12",
-    "nombre": "Edwin Escobar",
-    "vicepresident": "Blanca Alfaro ",
-    "nombrePartido (noEmber)": "PC",
-    "partido": "12",
-    "edad": "39",
-    "estadoCivil": "Estado Civil",
-    "lugarDeNacimiento": "Guatemala, Guatemala",
-    "fechaDeNacimiento": "00/00/09",
-    "anosProfesional": "34",
-    "numeroColegiado": "Colegiado",
-    "web": "www.president.com",
-    "correo": "nombre@president.com",
-    "sexo": "Masculino",
-    "fb": "https://www.facebook.com/profile.php?id=1357256926",
-    "tw": "https://twitter.com/EdwinEscobarGT",
-    "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/24.png"
-  },
-  {
-    "id": "president-13",
+    "id": "president-10",
     "nombre": "Jose Luis Chea Urruela",
     "vicepresident": "Mario Guillermo Gonzalez Flores",
     "nombrePartido (noEmber)": "PPT",
@@ -247,7 +190,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/16.png"
   },
   {
-    "id": "president-14",
+    "id": "president-11",
     "nombre": "Fredy Cabrera",
     "vicepresident": "Ricardo Sagastume Morales",
     "nombrePartido (noEmber)": "TODOS",
@@ -266,26 +209,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/02.png"
   },
   {
-    "id": "president-15",
-    "nombre": "Mario Amílcar Estrada Orellana",
-    "vicepresident": "Otto Javier Castillo Valenzuela",
-    "nombrePartido (noEmber)": "UCN",
-    "partido": "19",
-    "edad": "86",
-    "estadoCivil": "Estado Civil",
-    "lugarDeNacimiento": "Guatemala, Guatemala",
-    "fechaDeNacimiento": "00/00/00",
-    "anosProfesional": "17",
-    "numeroColegiado": "Colegiado",
-    "web": "www.president.com",
-    "correo": "nombre@president.com",
-    "sexo": "Masculino",
-    "fb": "https://www.facebook.com/MarioEstradaOGT/",
-    "tw": "https://twitter.com/MarioEstradaO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-    "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/06.png"
-  },
-  {
-    "id": "president-16",
+    "id": "president-12",
     "nombre": "Sandra Julieta Torres Casanova",
     "vicepresident": "Carlos Raúl Morales Moscoso",
     "nombrePartido (noEmber)": "UNE",
@@ -304,7 +228,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/03.png"
   },
   {
-    "id": "president-17",
+    "id": "president-13",
     "nombre": "Luis Antonio Velasquez Quiroa",
     "vicepresident": "Manuel Arturo Soto Aguirre",
     "nombrePartido (noEmber)": "UNIDOS",
@@ -323,7 +247,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/14.png"
   },
   {
-    "id": "president-18",
+    "id": "president-14",
     "nombre": "Pablo Manuel Duarte Saenz de Tejada",
     "vicepresident": "Roberto Villeda Arguedas",
     "nombrePartido (noEmber)": "UNIONISTA",
@@ -342,7 +266,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/07.png"
   },
   {
-    "id": "president-19",
+    "id": "president-15",
     "nombre": "Pablo Ignacio Ceto Sanchez",
     "vicepresident": "Blanca Estela Colop Alvarado",
     "nombrePartido (noEmber)": "URNG MAIZ",
@@ -361,26 +285,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/12.png"
   },
   {
-    "id": "president-20",
-    "nombre": "Zury Mayté Ríos Sosa",
-    "vicepresident": "Roberto Molina Barreto",
-    "nombrePartido (noEmber)": "VALOR",
-    "partido": "24",
-    "edad": "42",
-    "estadoCivil": "Estado Civil",
-    "lugarDeNacimiento": "Guatemala, Guatemala",
-    "fechaDeNacimiento": "00/00/00",
-    "anosProfesional": "23",
-    "numeroColegiado": "Colegiado",
-    "web": "www.president.com",
-    "correo": "nombre@president.com",
-    "sexo": "Femenino",
-    "fb": "https://www.facebook.com/zury.rios/",
-    "tw": "https://twitter.com/ZuryxGuate?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-    "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/04.png"
-  },
-  {
-    "id": "president-21",
+    "id": "president-16",
     "nombre": "Alejandro Eduardo Giammattei Falla",
     "vicepresident": "Cesar Guillermo Castillo Reyes",
     "nombrePartido (noEmber)": "VAMOS",
@@ -399,7 +304,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/05.png"
   },
   {
-    "id": "president-22",
+    "id": "president-17",
     "nombre": "Jose Amilcar Rivera Estevez",
     "vicepresident": "Erico Alejandro Can Saquic",
     "nombrePartido (noEmber)": "VICTORIA",
@@ -418,7 +323,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/13.png"
   },
   {
-    "id": "president-23",
+    "id": "president-18",
     "nombre": "Isaac Farchi Sultan",
     "vicepresident": "Ricardo Alfredo Flores Asturias ",
     "nombrePartido (noEmber)": "VIVA",
@@ -437,7 +342,7 @@
     "fotoURL": "https://raw.githubusercontent.com/RedCiudadana/Recursos-Candidatos-2019/gh-pages/presidencial/18.png"
   },
   {
-    "id": "president-24",
+    "id": "president-19",
     "nombre": "Manuel Ricardo Villacorta Orantes",
     "vicepresident": "Liliana Isabel Hernandez Estrada",
     "nombrePartido (noEmber)": "WINAQ",
