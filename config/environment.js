@@ -92,7 +92,7 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-    ENV.APP.staticFilesUrl = 'http://www.candidatos.gt/static-files/';
+    ENV.APP.staticFilesUrl = 'https://candidatos.redciudadana.org/static-files/';
   }
 
   return ENV;
