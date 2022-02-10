@@ -67,7 +67,7 @@
     "ember-welcome-page": "^3.2.0",
     "eslint-plugin-ember": "^5.2.0",
     "loader.js": "^4.7.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "qunit-dom": "^0.8.0",
     "sass": "^1.14.0",
     "tabletop": "^1.5.2",
